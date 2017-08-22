@@ -2,21 +2,33 @@
 # Introduction to Computer Programming for Biomedical Data Science
 ## BMI 6018/MDCRC 6521
 
-##  Instructors                                   
+## Instructors                                   
 * Brian E. Chapman, Ph.D.: <brian.chapman@utah.edu>
 * Nick Consiglio (TA): <nick.consiglio@utah.edu>
 
-##   Prerequisite
+## Prerequisite
 
-A basic programming course, such as CodeAcademy’s Python Course
+A basic programming course, such as [codecademy’s Python Course](https://www.codecademy.com/learn/learn-python)
 
-##  Course Description
+## Course Description
 
 This course will provide students in the biological and medical domains the foundational programming skills to create computer programs to manage and analyze data drawn from clinical, biological, and public health domains. Working with the Python programming language, students will learn how to write procedural and object oriented programs. Mathematical principles relevant to biomedical data science will be reviewed through programming examples and problems. Students will also develop competency in using software version control with git as well as how to work within Linux environments.
 
 ## Text Books
 
-There is no required text book. However, I will make a PDF copy available through Canvas
+### Programming
+
+There is no required textbook for this course. However, I will make a PDF copy of Allen Downey's *Think Python, version 2* available through Canvas. This is book with a Creative Commons license, so if you are interested you can [clone](https://github.com/AllenDowney/ThinkPython2), edit, and build your own copy of the book. For relevant modules, I will provide references to readings in Downey's book.
+
+In addition there are a number of very useful books that are available online through the University of Utah's subscription to the [Safari Technical Books Online](http://proquest.safaribooksonline.com.ezproxy.lib.utah.edu/).
+
+### Mathematics
+
+As part of this class we will be reviewing some foundational mathematics. Some of the books that I will be drawing materials from include:
+
+* [Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
+* [Mathematics for the Life Sciences](http://www.springer.com/us/book/9781461472759)
+* [Mathematics in the Real World](http://www.springer.com/us/book/9781461485285)
 
 ##  Learning Objectives
 
@@ -51,7 +63,12 @@ While this course does not include a formal written component, students are requ
 The analytical component of this course includes review of foundational mathematical concepts that are of importance to biomedical informatics.
 
 
-## Course Schedule 
+## Course Schedule
+
+1. **Crash course**
+  1. Working in Linux
+  1. Using git
+  1. Quick overview of Python
 
 1.  **Review of sublanguages (mathematical, computational, medical) and
     their symbols/notation **
@@ -64,62 +81,44 @@ The analytical component of this course includes review of foundational mathemat
 1. **Computational Environments and software engineering**
 
     1.  **Principles**
-
         1. Working in the Linux shell
         1. Using Jupyter notebooks
         1. Using git for version control
         1. Terminal editors
         1. Documentation
-
-    1.  **Application: **
-
+    1.  **Application:**
         1.  Working within the course framework
 
 1. **Mathematical and Computational Concepts of Numbers**
-
     1.  **Principles**
-
         1.  Integer, rational, real, and complex numbers in mathematics
         1. Integer, rational, real, and complex numbers in Python
-
     1.  **Application: representing biomedical data numerically**
 
 1. **Collections**
-
     1.  **Principles**
-
-        1.  Set theory
-        1. Strings, lists, tuples, dictionaries, sets and sets in
-            Python
-
-    1.  **Application: **
-
+        1. Set theory
+        1. Strings, lists, tuples, dictionaries, and sets in Python
+    1.  **Application:**
         1. Using Python collections to represent laboratory test data
-
         1. Using sets to analyze biomedical texts
-
         1. Dictionaries and ICD-9 codes (MIMIC2)
 
 1.  **Functions in Mathematics and Computing**
-
     1.  **Principles**
         1.  Mathematical description of functions
         1. Mutable and immutable function arguments
         1. Functions as arguments to functions
         1. Functions for code-reuse
-
-    1.  **Application: **
-
+    1.  **Application**
         1.  Writing functions to find prime numbers
 
 1. **Advanced Code Blocks in Python**
-
     1.  **Principles**
         1.  Exceptions
         1. Iteration
         1. Modules
         1. Packages
-
 1. **Calculus and numeric approximations of derivatives**
     1.  **Principles**
         1. Meaning of derivatives
@@ -128,7 +127,7 @@ The analytical component of this course includes review of foundational mathemat
         1. Approximation
         1. Optimization
     1.  **Applications:**
-        1.  Drug delivery timing
+        1. Drug delivery timing
         1. QRS identification in ECG signals
 
 1. **Visualization of Biomedical Data**
@@ -148,7 +147,7 @@ The analytical component of this course includes review of foundational mathemat
         1. Parsing radiology report files
         1. Parsing common bioinformatics file formats FASTA, FASTQ
 
-1.  Pandas for Data Wrangling and visualization
+1. **Pandas for Data Wrangling and visualization**
     1.  **Principles**
         1. Reading tabular data
         1. Numeric representation standards (locale library)
@@ -156,17 +155,16 @@ The analytical component of this course includes review of foundational mathemat
     1.  **Applications**
         1. Air quality and temporal data
         1. Car accidents and spatial data
-        
-1. Data Serialization
 
-  1. **Principles**
+1. **Data Serialization**
+    1. **Principles**
         1. Persisting Data in a Human and/or Machine Readable Manner
-  1. **Applications**
+    1. **Applications**
         1. Pickle
-        1. Dill 
+        1. Dill
         1. JSON
         1. XML
-        
+
 1. **Basic Text Processing with Python**
     1.  **Principles**
         1. Tokenization
@@ -180,18 +178,18 @@ The analytical component of this course includes review of foundational mathemat
         1. Word vectors
         1. Dot products
         1. Vector norms
-        
+
     1.  **Application**
         1. Cosine similarity of text documents
-        
+
 1. **Logic Programming**
     1.  **Principles**
         1. Propositional Logic
         1. First-Order Logic
-        
+
     1.  **Application**
         1. Logic and Natural Language Understanding with NLTK
-        
+
 1. **Object oriented programming and probability**
     1.  **Principles**
         1. Encapsulation
@@ -203,7 +201,7 @@ The analytical component of this course includes review of foundational mathemat
 
     1.  **Application**
         1. Simulating populations of patients
-        
+
 1. **Networks, ontologies and graph theory**
     1.  **Principles**
         1. Edges and nodes
