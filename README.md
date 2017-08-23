@@ -24,7 +24,7 @@ In addition there are a number of very useful books that are available online th
 
 ### Mathematics
 
-As part of this class we will be reviewing some foundational mathematics. Some of the books that I will be drawing materials from include:
+As part of this class we will be reviewing some foundational mathematics as they related to computational issues in biomedical informatics. Some of the mathematics books that I will be drawing materials from include:
 
 * [Doing Math with Python](https://www.nostarch.com/doingmathwithpython)
 * [Mathematics for the Life Sciences](http://www.springer.com/us/book/9781461472759)
