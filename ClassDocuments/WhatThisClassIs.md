@@ -4,7 +4,7 @@ Welcome to my class. Before we get started with the nitty gritty of a course reg
 
 First, this is not simply an introduction to computer programming course. There are many options out there for you to learn the basics of how to write computer programs, many of them taught by expert educators that exceed my skills. What I hope this class adds to what you could get elsewhere includes the following:
 
-* **Relevance to Biomedicine:** It will be most helpful to you to learn computer programming in the context of the types of data and problems that are relevant to your biomedical research or work. My own background is in clinical medical informatics and I'll be bringing data and problems from this domain to the course. Of course, biomedical science is broader than this and I ask you to bring your data and problems to the class to share them with others. We can incorporate them into homework problems and in-class problems. Most importantly, you can tackle relevant problems through a term project [ADD LINK HERE]
+* **Relevance to Biomedicine:** It will be most helpful to you to learn computer programming in the context of the types of data and problems that are relevant to your biomedical research or work. My own background is in clinical medical informatics and I'll be bringing data and problems from this domain to the course. Of course, biomedical science is broader than this and I ask you to bring your data and problems to the class to share them with others. We can incorporate them into homework problems and in-class problems. Most importantly, you can tackle relevant problems through a term project.
 
 * **Computing:** In addition to learning programming with Python, We will also learn about how to work with modern computing environments (primarily based on Linux operating systems). This will include learning how to interact with operating systems through Python, how Python programs can be modified via the operating system, but also how to create customized computing environments through environment variables and virtualization tools through. We will also be learning version control (in this case, git), using UNIX/Linux shells, virtual environments, etc. While
 
@@ -18,7 +18,7 @@ Having me as an instructor, imperfections and all, can also be of value to you. 
 
 >One unexpected result of the online [education] experiments has been to make the value of teachers and students talking face-to-face ver more clear. A teacher "live" in from of a classroom gives students an opportunity to watch someone think, boring bits and all. That teacher is a model of how thinking happens, including false starts and hindsight.
 
-Some of the topics we will cover in this class are things that I know well. Others I'm learning with you or just ahead of you. Hopefully, I can model for youI want this class to help you develop a peer group
+Some of the topics we will cover in this class are things that I know well. Others I'm learning with you or just ahead of you. Hopefully, I can model for you.
 
 I teach this class because data manipulation through computers is a fundamental aspect of many important biomedical problems. However, often the students trying to tackle these problems do not have the necessary background for this computational work. Given their biological or domain knowledge, learning programming will make them powerful problem solvers.
 
@@ -31,6 +31,10 @@ One way to view this class is through the lens of **Data Science.**
 ![Data Science Diagram](./Data_Science_VD.png)
 
 As the Venn diagram indicates, data science requires the ability to write programs that both do data preparation but also incorporate mathematical and statistical principles as well as domain knowledge.
+
+#### Relationship to Other Data Science Courses in DBMI
+
+![DBMI Data Science](./dbmi_data_science.png)
 
 ### Computational Science and Engineering
 
