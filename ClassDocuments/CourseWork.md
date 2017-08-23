@@ -11,7 +11,7 @@ Grading will be based on the following rubric:
 * ✓ -: (70%) Program (if relevant) is completed but does not run as expected. Written explanations are partially correct
 * F: (0%) Submitted solutions are either absent or do not demonstrate a realistic effort to address the problem.
 
-Homework will be submitted using a private git repository (e.g. on GitHub or Bitbucket) that each student creates and to which the instructor and TA are added as collaborators.
+Homework will be submitted using a private git repository (e.g. on GitHub or Bitbucket) that each student creates and to which the instructor and TA are added as collaborators. By default GitHub repositories are public. However, if you have an education e-mail, you can request an upgrade of your GitHub account to get private repositories. You can also create a free, private git repository at [https://gitlab.chpc.utah.edu](https://gitlab.chpc.utah.edu).
 
 Homework assignments can be (indeed are encouraged to be) worked on in groups, but each student will submit their own homework. Homework solutions will be reviewed in class and each student must be prepared to defend/explain their homework solutions to the rest of the class during the beginning of the class period (part of the class participation grade).
 
