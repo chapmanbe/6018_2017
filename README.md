@@ -66,17 +66,9 @@ The analytical component of this course includes review of foundational mathemat
 ## Course Schedule
 
 1. **Crash course**
-  1. Working in Linux
-  1. Using git
-  1. Quick overview of Python
-
-1.  **Review of sublanguages (mathematical, computational, medical) and
-    their symbols/notation **
-    1.  **Principles**
-        1.  Common mathematical, computational, and medical symbols (and
-            their meaning)
-
-    1.  **Application: Pseudo-code and program design**
+    1. Working in Linux
+    1. Using git
+    1. Quick overview of Python
 
 1. **Computational Environments and software engineering**
 
@@ -88,6 +80,14 @@ The analytical component of this course includes review of foundational mathemat
         1. Documentation
     1.  **Application:**
         1.  Working within the course framework
+
+1.  **Review of sublanguages (mathematical, computational, medical) and
+    their symbols/notation**
+    1.  **Principles**
+        1.  Common mathematical, computational, and medical symbols (and
+            their meaning)
+
+    1.  **Application: Pseudo-code and program design**
 
 1. **Mathematical and Computational Concepts of Numbers**
     1.  **Principles**
