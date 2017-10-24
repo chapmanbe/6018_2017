@@ -1,0 +1,1801 @@
+	Unnamed: 0	subject_id	category	text	code
+0	0	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-17**] 8:19 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3682**]
+     Reason: ABD PAIN, 3 MONTHS N/V/D
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74M with CAD, PVD presents with 3 months of N/V/D, diffuse  abdominal pain and 
+      30 lb weight loss.
+     REASON FOR THIS EXAMINATION:
+      Assess for inflammation or mass.                                                
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+     WET READ: KCLd MON [**3289-1-17**] 9:15 PM
+      limited by lack of iv contrast, no evidence of obstruction or mass
+      
+      nonspecific interstitial opacities at right lung base
+     WET READ AUDIT #1 KCLd MON [**3289-1-17**] 9:14 PM
+      no evidence of obstruction or mass
+     WET READ AUDIT #2 KCLd MON [**3289-1-17**] 9:14 PM
+      limited by lack of iv contrast, no evidence of obstruction or mass
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man with CAD, PVD, with three months of nausea,
+     vomiting, and diarrhea with diffuse abdominal pain and 30-pound weight loss
+     over the last month.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired axial images of the abdomen and pelvis were obtained
+     without IV contrast secondary to chronic renal insufficiency.  Multiplanar
+     reformatted images were also displayed.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  Non-specific interstitial opacity seen
+     at the right base, with evidence of bronchiectasis and small blebs.  These
+     likely represent post-inflammatory changes.  No focal consolidations or
+     pleural effusions are seen at the visualized lung bases.
+     
+     Tiny calcifications are seen within the liver, likely representing sequelae of
+     prior granulomatous infection.  Assessment of the abdomen is limited by the
+     lack of IV contrast; however, no focal lesions identified within the liver.
+     Allowing for limitations of a non-contrast study, the pancreas, spleen, and
+     adrenal glands appear unremarkable.  Small rounded hypodensities are seen
+     within the right kidney, possibly representing simple cysts, but not fully
+     characterized on this non-contrast study.  Tiny calcific density is seen
+     within the right kidney, possibly representing small stone versus vascular
+     calcification.  The patient is status post cholecystectomy and left
+     nephrectomy.  Visualized portions of the bowel appear unremarkable. No
+     evidence of free fluid within the abdomen.  Diffuse vascular calcifications
+     are noted throughout the aorta and its branches.
+     
+     A small hiatal hernia is noted.  Also seen is evidence of cardiomegaly.
+     
+                                                                 (Over)
+
+     DATE: [**3289-1-17**] 8:19 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3682**]
+     Reason: ABD PAIN, 3 MONTHS N/V/D
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  The rectum, sigmoid, bladder, and
+     prostate appear unremarkable.  No free fluid is seen within the pelvis.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are identified.
+     
+     IMPRESSION:
+     
+     1.  Evaluation limited by lack of IV contrast; however, no evidence of
+      bowel obstruction or mass identified within the abdomen or pelvis.
+     
+     2.  Non-specific interstitial opacities and bronchiectasis seen at the right
+     base, suggestive of post-inflammatory changes
+
+"	416.8
+1	1	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-17**] 4:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3681**]
+     Reason: assess for PNA vs CHF                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with h/o CHF, COPD now with cough                               
+     REASON FOR THIS EXAMINATION:
+      assess for PNA vs CHF                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE VIEW OF THE CHEST DATED [**3289-1-17**]
+     
+     HISTORY:  74-year-old man with history of CHF, COPD, now with cough; assess
+     for pneumonia versus CHF.
+     
+     FINDINGS:  Bedside AP examination labeled ""Erect, 16:35 h"" with no comparisons
+     on record.  There is streaky linear opacity at the medial aspect of the right
+     more than left lung base, likely representing chronic scarring. The lungs are
+     otherwise well-inflated and clear, without focal consolidation. A left-sided
+     dual-chamber cardiac pacemaker has intact lead tips projected over the RA and
+     RV apex (on this single view).  The heart is within normal limits in size.
+     There is slight relative prominence and blurring of the upper zone pulmonary
+     vessels consistent with early pulmonary vascular congestion and interstitial
+     edema.  No overt edema or pleural effusion is identified. There are
+     atherosclerotic changes involving the thoracic aorta.  Scattered surgical
+     clips are barely discernable in the left paraspinal region, perhaps related to
+     prior nephrectomy, with cholecystectomy clips in the right upper abdomen.
+     
+     IMPRESSION:
+     1.  Evidence of early pulmonary vascular congestion and interstitial edema.
+     2.  Probable scarring at the medial aspect of the right lung base, with no
+     definite consolidation.
+
+"	416.8
+2	2	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-17**] 8:19 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3682**]
+     Reason: ABD PAIN, 3 MONTHS N/V/D
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74M with CAD, PVD presents with 3 months of N/V/D, diffuse  abdominal pain and 
+      30 lb weight loss.
+     REASON FOR THIS EXAMINATION:
+      Assess for inflammation or mass.                                                
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+     WET READ: KCLd MON [**3289-1-17**] 9:15 PM
+      limited by lack of iv contrast, no evidence of obstruction or mass
+      
+      nonspecific interstitial opacities at right lung base
+     WET READ AUDIT #1 KCLd MON [**3289-1-17**] 9:14 PM
+      no evidence of obstruction or mass
+     WET READ AUDIT #2 KCLd MON [**3289-1-17**] 9:14 PM
+      limited by lack of iv contrast, no evidence of obstruction or mass
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man with CAD, PVD, with three months of nausea,
+     vomiting, and diarrhea with diffuse abdominal pain and 30-pound weight loss
+     over the last month.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired axial images of the abdomen and pelvis were obtained
+     without IV contrast secondary to chronic renal insufficiency.  Multiplanar
+     reformatted images were also displayed.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  Non-specific interstitial opacity seen
+     at the right base, with evidence of bronchiectasis and small blebs.  These
+     likely represent post-inflammatory changes.  No focal consolidations or
+     pleural effusions are seen at the visualized lung bases.
+     
+     Tiny calcifications are seen within the liver, likely representing sequelae of
+     prior granulomatous infection.  Assessment of the abdomen is limited by the
+     lack of IV contrast; however, no focal lesions identified within the liver.
+     Allowing for limitations of a non-contrast study, the pancreas, spleen, and
+     adrenal glands appear unremarkable.  Small rounded hypodensities are seen
+     within the right kidney, possibly representing simple cysts, but not fully
+     characterized on this non-contrast study.  Tiny calcific density is seen
+     within the right kidney, possibly representing small stone versus vascular
+     calcification.  The patient is status post cholecystectomy and left
+     nephrectomy.  Visualized portions of the bowel appear unremarkable. No
+     evidence of free fluid within the abdomen.  Diffuse vascular calcifications
+     are noted throughout the aorta and its branches.
+     
+     A small hiatal hernia is noted.  Also seen is evidence of cardiomegaly.
+     
+                                                                 (Over)
+
+     DATE: [**3289-1-17**] 8:19 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 3682**]
+     Reason: ABD PAIN, 3 MONTHS N/V/D
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  The rectum, sigmoid, bladder, and
+     prostate appear unremarkable.  No free fluid is seen within the pelvis.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are identified.
+     
+     IMPRESSION:
+     
+     1.  Evaluation limited by lack of IV contrast; however, no evidence of
+      bowel obstruction or mass identified within the abdomen or pelvis.
+     
+     2.  Non-specific interstitial opacities and bronchiectasis seen at the right
+     base, suggestive of post-inflammatory changes
+
+"	416.8
+3	3	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-19**] 10:49 AM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 3683**]
+     Reason: evaluate for biliary dilitation                             
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with abdominal pain                                             
+     REASON FOR THIS EXAMINATION:
+      evaluate for biliary dilitation                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Abdominal pain.  Evaluate for biliary dilatation.
+     
+     No evidence of dilated intrahepatic ducts were present in any part of the
+     liver.  Common duct measures 4.5 mm rising to 7 mm in its extrahepatic part
+     which is within the normal limits particularly for a patient who is status
+     post cholecystectomy
+     
+     The calcific density is noted in the right lobe of the liver, probably old
+     granuloma
+     
+     Right kidney contains a clear-walled cyst on the lateral aspect.
+     
+     IMPRESSION:  No dilated intrahepatic ducts.  Normal hepatic texture
+                                                                           
+
+"	416.8
+4	4	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-20**] 10:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3684**]
+     Reason: eval ETT placement, r/o infiltrate, chf                     
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old man with just intubated                                            
+     REASON FOR THIS EXAMINATION:
+      eval ETT placement, r/o infiltrate, chf                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE AP PORTABLE VIEW CHEST.
+     
+     REASON FOR EXAM: Evaluate ETT placement and CHF.
+     
+     Comparison is made with prior study dated [**3289-1-17**].
+     
+     FINDINGS:
+     ETT is located 8.5 cm above the carina. There is pulmonary edema with vascular
+     engorgement in the mediastinum, hila and bilateral apex. There is small right
+     pleural effusion. There is no pneumothorax. Mild cardiomegaly is stable.
+     Pacemaker leads in standard position. 
+     
+     IMPRESSION: Worsening pulmonary edema.
+
+"	416.8
+5	5	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-21**] 4:30 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 58**] # [**Clip Number (Radiology) 3687**]
+     Reason: eval for edema                                              
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          74 year old man with resp distress , pulm edema, s/p extubation with 
+      wheezing, rhonchi
+     REASON FOR THIS EXAMINATION:
+      eval for edema                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Respiratory distress, pulmonary edema, patient extubated.
+     
+     CHEST:  Heart remains enlarged and pulmonary edema persists.  Appearances are
+     slightly worse than on the prior occasion but not at that time the patient was
+     intubated.  The nasogastric tube has also been removed.
+     
+     IMPRESSION:  Patient extubated.  Failure persists.
+                                                                           
+
+"	416.8
+6	6	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-21**] 4:30 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 58**] # [**Clip Number (Radiology) 3687**]
+     Reason: eval for edema                                              
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          74 year old man with resp distress , pulm edema, s/p extubation with 
+      wheezing, rhonchi
+     REASON FOR THIS EXAMINATION:
+      eval for edema                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Respiratory distress, pulmonary edema, patient extubated.
+     
+     CHEST:  Heart remains enlarged and pulmonary edema persists.  Appearances are
+     slightly worse than on the prior occasion but not at that time the patient was
+     intubated.  The nasogastric tube has also been removed.
+     
+     IMPRESSION:  Patient extubated.  Failure persists.
+                                                                           
+
+"	416.8
+7	7	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-21**] 10:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3686**]
+     Reason: please assess for interval change.                          
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        74 year old man with resp distress now intubated                              
+     REASON FOR THIS EXAMINATION:
+      please assess for interval change.                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE AP PORTBALE VIEW OF THE CHEST.
+     
+     REASON FOR EXAM:  Respiratory distress.
+     
+     Comparison is made with prior study dated [**3289-1-20**].
+     
+     FINDINGS:  Cardiomediastinal contour is unchanged.  Interval
+     significant improvement of interstitial pulmonary edema.  Small right pleural
+     effusion is stable.  There is no pneumothorax.  ET tube is in a great
+     position.  NG tube tip is out of view below the diaphragm.  Pacemaker leads
+     are in standard position.
+     
+     IMPRESSION:  Significant resolution of pulmonary edema.  Still mild
+     interstitial pulmonary edema.
+
+"	416.8
+8	8	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-21**] 4:23 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 3685**]
+     Reason: r/o free air under diaphragm s/p colonoscopymake true uprigh
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with respiratory failure, intubated. PT had colonoscopy earlier 
+      in the day.
+     REASON FOR THIS EXAMINATION:
+      r/o free air under diaphragm s/p colonoscopymake true upright to r/o free air   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Colonoscopy earlier today.  Rule out free air.
+     
+     TWO UPRIGHT ABDOMINAL RADIOGRAPHS:  There is no evidence of free air or
+     obstruction.  Gas filled loops of large and small bowel are seen.  An NG tube
+     is seen terminating within the stomach.  The cardiac silhouette is normal. 
+     The lungs are not well evaluated and evaluation is deferred to chest x-ray,
+     which is currently in progress.  Surgical clips are noted in the left upper
+     quadrant.  Pacer leads are seen as well as numerous EKG leads and wires
+     overlying the patient.
+     
+     IMPRESSION:  NG tube within the stomach, with no evidence of free air.
+                                                                           
+
+"	416.8
+9	9	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-22**] 5:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3688**]
+     Reason: eval of pulm edema                                          
+     Admitting Diagnosis: ABDOMINAL PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         74 year old man with resp distress , pulm edema, please eval                 
+     REASON FOR THIS EXAMINATION:
+      eval of pulm edema                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE VIEW OF THE CHEST DATED [**3289-1-22**].
+     
+     COMPARISON:  Chest x-ray dated [**3289-1-21**].
+     
+     INDICATION:  74-year-old man with respiratory distress, pulmonary edema.
+     
+     FINDINGS:  Single frontal radiograph of the chest again demonstrates a dual-
+     lead cardiac pacer, unchanged.  The heart is enlarged, unchanged.  There is no
+     evidence of pneumothorax or pleural effusion.  The pulmonary vasculature
+     appears less indistinct and there is decreased cephalization since the prior
+     examination consistent with improving pulmonary edema.  There is improving
+     airspace opacity at the right lung base.  Unchanged retrocardiac airspace
+     disease is seen.  There is atherosclerotic calcification of the aortic arch
+     and the aorta is tortuous.
+     
+     IMPRESSION:
+     1.  Enlarged cardiac silhouette and improving pulmonary edema.  Improving
+     right base airspace disease and persistent unchanged left lower lobe airspace
+     disease.
+
+"	416.8
+10	10	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-30**] 1:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3689**]
+     Reason: Pls assess for pulmonary infiltrates                        
+     Admitting Diagnosis: MYOCARDIAL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           74 year old man, intubated, with report of ?pneumonia vs CHF at outside 
+      hospital
+     REASON FOR THIS EXAMINATION:
+      Pls assess for pulmonary infiltrates                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Assess for pulmonary infiltrate.
+     
+     Single portable radiograph of the chest demonstrates interval placement of an
+     endotracheal tube.  The tip of the endotracheal tube is located 3-4 cm above
+     the level of the carina.  There is a nasogastric tube with its tip in the
+     stomach.  Small jugular central venous catheter is present with its tip in the
+     SVC.  There is a small left-sided pleural effusion.  Dual lead cardiac
+     pacemaker is unchanged.  There is mild bibasilar atelectasis.  No
+     pneumothorax.  The cardiomediastinal contour is unchanged when compared to
+     [**3289-1-22**].  Support lines are new.
+     
+     IMPRESSION:
+     
+     Support lines as described.  No pneumothorax.
+     
+     Small left-sided pleural effusion.  Mild bibasilar atelectasis without
+     consolidation.
+                                                                           
+
+"	416.8
+11	11	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-31**] 6:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3690**]
+     Reason: Pls eval for pulmonary edema                                
+     Admitting Diagnosis: MYOCARDIAL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            74 year old man, status-post extubation with hypoxia, pulmonary rales and 
+      cough
+     REASON FOR THIS EXAMINATION:
+      Pls eval for pulmonary edema                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 7:14 A.M. [**1-31**]
+     
+     HISTORY:  Extubated.  Hypoxic.  Rales and cough.
+     
+     IMPRESSION:  AP chest compared to [**1-22**] and 11:
+     
+     Mild pulmonary edema has worsened.  Opacification at the left lung base
+     present since [**1-21**] is probably atelectasis.  Pleural effusion is small,
+     in the left.  Heart size normal.  No pneumothorax.
+     
+     Right jugular and transvenous right atrial and right ventricular pacer leads
+     are in standard placements.
+                                                                           
+
+"	416.8
+12	12	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-31**] 8:57 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 58**] # [**Clip Number (Radiology) 3692**]
+     Reason: please assess for pna/asd to explain fever                  
+     Admitting Diagnosis: MYOCARDIAL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             74 year old man, status-post extubation with hypoxia, pulmonary rales 
+      and  cough now febrile ? RLL/RML infiltrate vs. worsening effusion on previous 
+      cxr
+     REASON FOR THIS EXAMINATION:
+      please assess for pna/asd to explain fever                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post extubation with hypoxia.  Evaluate for pneumonia,
+     fever.
+     
+     COMPARISON:  Comparison is made to study performed 14 hours earlier.
+     
+     PORTABLE CHEST RADIOGRAPH:
+     
+     Left-sided pacemaker again seen with leads overlying the right atrium and
+     ventricle.  Cardiac and mediastinal contours appear stable.  Slight decrease
+     in perihilar haziness seen consistent with improving yet persistent pulmonary
+     edema.  Retrocardiac opacity again noted.  There has been interval removal of
+     the right-sided central venous line.  No residual pneumothorax identified.
+     
+     IMPRESSION:  Improving persistent mild pulmonary edema.  Persistent
+     retrocardiac opacity.
+
+"	416.8
+13	13	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-31**] 8:57 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 58**] # [**Clip Number (Radiology) 3692**]
+     Reason: please assess for pna/asd to explain fever                  
+     Admitting Diagnosis: MYOCARDIAL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             74 year old man, status-post extubation with hypoxia, pulmonary rales 
+      and  cough now febrile ? RLL/RML infiltrate vs. worsening effusion on previous 
+      cxr
+     REASON FOR THIS EXAMINATION:
+      please assess for pna/asd to explain fever                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post extubation with hypoxia.  Evaluate for pneumonia,
+     fever.
+     
+     COMPARISON:  Comparison is made to study performed 14 hours earlier.
+     
+     PORTABLE CHEST RADIOGRAPH:
+     
+     Left-sided pacemaker again seen with leads overlying the right atrium and
+     ventricle.  Cardiac and mediastinal contours appear stable.  Slight decrease
+     in perihilar haziness seen consistent with improving yet persistent pulmonary
+     edema.  Retrocardiac opacity again noted.  There has been interval removal of
+     the right-sided central venous line.  No residual pneumothorax identified.
+     
+     IMPRESSION:  Improving persistent mild pulmonary edema.  Persistent
+     retrocardiac opacity.
+
+"	416.8
+14	14	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-31**] 9:38 AM
+     RENAL U.S. PORT; -59 DISTINCT PROCEDURAL SERVICE                Clip # [**Clip Number (Radiology) 3691**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: please assess renal blood flow, please perform doppler      
+     Admitting Diagnosis: MYOCARDIAL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with flash pulmonary edema, s/p L nephrectomy, ? RAS            
+     REASON FOR THIS EXAMINATION:
+      please assess renal blood flow, please perform doppler                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  74-year-old male with flash pulmonary edema status post left
+     nephrectomy and concern for renal artery stenosis.
+     
+     COMPARISON:  No prior study available.
+     
+     RENAL ULTRASOUND WITH DOPPLER:  The right kidney measures 12.1 cm and contains
+     a 2.0 cm cyst which is exophytic at the lower pole.  The [**Doctor Last Name **]-scale appearance
+     of the right kidney is within normal limits with preservation of the renal
+     cortex.  There is no evidence of stones, hydronephrosis or solid renal mass.
+     The left kidney is surgically absent.  Doppler evaluation of the right kidney
+     demonstrates appropriate arterial waveforms of the main renal artery and mid
+     upper and lower pole interlobar arteries with resistive indices of 0.86, 0.82,
+     0.81, and 0.81 respectively.  The main renal vein is patent with appropriate
+     waveform.  Color Doppler imaging demonstrates symmetric perfusion of the right
+     kidney.
+     
+     IMPRESSION:
+     
+     1.  2.0 cm cyst of the right renal lower pole.  Otherwise, normal appearance
+     of the right kidney with patent vasculature and no sonographic evidence of
+     renal artery stenosis.
+     2.  Surgically absent left kidney.
+
+"	416.8
+15	15	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-31**] 9:38 AM
+     RENAL U.S. PORT; -59 DISTINCT PROCEDURAL SERVICE                Clip # [**Clip Number (Radiology) 3691**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: please assess renal blood flow, please perform doppler      
+     Admitting Diagnosis: MYOCARDIAL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with flash pulmonary edema, s/p L nephrectomy, ? RAS            
+     REASON FOR THIS EXAMINATION:
+      please assess renal blood flow, please perform doppler                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  74-year-old male with flash pulmonary edema status post left
+     nephrectomy and concern for renal artery stenosis.
+     
+     COMPARISON:  No prior study available.
+     
+     RENAL ULTRASOUND WITH DOPPLER:  The right kidney measures 12.1 cm and contains
+     a 2.0 cm cyst which is exophytic at the lower pole.  The [**Doctor Last Name **]-scale appearance
+     of the right kidney is within normal limits with preservation of the renal
+     cortex.  There is no evidence of stones, hydronephrosis or solid renal mass.
+     The left kidney is surgically absent.  Doppler evaluation of the right kidney
+     demonstrates appropriate arterial waveforms of the main renal artery and mid
+     upper and lower pole interlobar arteries with resistive indices of 0.86, 0.82,
+     0.81, and 0.81 respectively.  The main renal vein is patent with appropriate
+     waveform.  Color Doppler imaging demonstrates symmetric perfusion of the right
+     kidney.
+     
+     IMPRESSION:
+     
+     1.  2.0 cm cyst of the right renal lower pole.  Otherwise, normal appearance
+     of the right kidney with patent vasculature and no sonographic evidence of
+     renal artery stenosis.
+     2.  Surgically absent left kidney.
+
+"	416.8
+16	16	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-1-31**] 9:38 AM
+     RENAL U.S. PORT; -59 DISTINCT PROCEDURAL SERVICE                Clip # [**Clip Number (Radiology) 3691**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: please assess renal blood flow, please perform doppler      
+     Admitting Diagnosis: MYOCARDIAL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with flash pulmonary edema, s/p L nephrectomy, ? RAS            
+     REASON FOR THIS EXAMINATION:
+      please assess renal blood flow, please perform doppler                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  74-year-old male with flash pulmonary edema status post left
+     nephrectomy and concern for renal artery stenosis.
+     
+     COMPARISON:  No prior study available.
+     
+     RENAL ULTRASOUND WITH DOPPLER:  The right kidney measures 12.1 cm and contains
+     a 2.0 cm cyst which is exophytic at the lower pole.  The [**Doctor Last Name **]-scale appearance
+     of the right kidney is within normal limits with preservation of the renal
+     cortex.  There is no evidence of stones, hydronephrosis or solid renal mass.
+     The left kidney is surgically absent.  Doppler evaluation of the right kidney
+     demonstrates appropriate arterial waveforms of the main renal artery and mid
+     upper and lower pole interlobar arteries with resistive indices of 0.86, 0.82,
+     0.81, and 0.81 respectively.  The main renal vein is patent with appropriate
+     waveform.  Color Doppler imaging demonstrates symmetric perfusion of the right
+     kidney.
+     
+     IMPRESSION:
+     
+     1.  2.0 cm cyst of the right renal lower pole.  Otherwise, normal appearance
+     of the right kidney with patent vasculature and no sonographic evidence of
+     renal artery stenosis.
+     2.  Surgically absent left kidney.
+
+"	416.8
+17	17	631	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3289-2-2**] 4:25 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3693**]
+     Reason: please eval for ? retrocardiac opacity                      
+     Admitting Diagnosis: MYOCARDIAL ISCHEMIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with AS, CHF, fever, possible retrocardiac opacity on portable  
+     REASON FOR THIS EXAMINATION:
+      please eval for ? retrocardiac opacity                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  74-year-old male with aortic stenosis, CHF, and fever.  Evaluate
+     possible retrocardiac opacity.
+     
+     Comparison is made to prior radiograph dated [**3289-1-31**].
+     
+     PA AND LATERAL CHEST RADIOGRAPHS.
+     
+     When compared to prior radiograph, there appears to be marked improvement and
+     near resolution of bilateral pulmonary edema along with near
+     complete resolution of retrocardiac opacity likely representing areas of left
+     lower lobe atelectasis/collapse.  Small areas of basilar atelectasis are noted
+     bilaterally, and there appears to have been slight worsening of left-sided
+     pleural effusion, with stable appearance of small right-sided pleural
+     effusion.  Areas of scarring within the right medial lung base are unchanged.
+     Left-sided pacemaker/ICD device is unchanged in position.
+     
+     IMPRESSION:
+     1.  Near complete resolution of pulmonary edema along with retrocardiac
+     opacity, likely representing areas of left lower lobe atelectasis.
+     2.  Slight interval increase in left-sided small pleural effusion with stable
+     appearance to right-sided small pleural effusion.
+
+"	416.8
+18	18	631	RADIOLOGY_REPORT	"
+
+
+     EXERCISE MIBI                                                   Clip # [**Clip Number (Radiology) 3694**]
+     Reason: 74 Y/O WITH AS,RENAL INSUFFICIENCY,WITH ELEVATED CE'S NON-INVASIVE TEST OF CAD/REVERSIBLE ISCHEMIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RADIOPHARMECEUTICAL DATA:
+        10.8 mCi Tc-99m Sestamibi Rest ([**3289-2-3**]);
+        27.5 mCi Tc-99m Sestamibi Stress ([**3289-2-3**]);
+     HISTORY: 74 year old man with history of non-ST elevation MI and pacemaker  
+     placement presenting with chest pain. 
+      
+     SUMMARY OF DATA FROM THE EXERCISE LAB: 
+     Dipyridamole was infused intravenously for 4 minutes at a dose of 0.142
+     mg/kg/min.    
+       
+     METHOD: 
+     Resting perfusion images were obtained with Tc-99m sestamibi.  Tracer was
+     injected approximately one hour prior to obtaining the resting images. 
+     Two minutes after the cessation of infusion of dipyridamole, approximately three
+     times the resting dose of Tc99m sestamibi was administered IV.  Stress images
+     were obtained approximately one hour following tracer injection. 
+     Imaging protocol: Gated SPECT. 
+     This study was interpreted using the 17-segment myocardial perfusion model.  
+       
+     INTERPRETATION:  
+     Left ventricular cavity size is moderately dilated at stress and rest.  
+     Rest and stress perfusion images reveal a mild fixed defect of the inferior and
+     inferolateral walls.   
+       
+     Gated images reveal global hypokinesis. 
+     The calculated left ventricular ejection fraction is 35%.    
+       
+     No prior studies.  
+       
+     IMPRESSION:  There is a mild fixed perfusion defect involving the inferior and
+     inferolateral walls.  The left ventricle is moderately dilated at stress and
+     rest and there is global hypokinesis with a calculated LVEF of 35%  
+       
+                                                                           
+
+             [**First Name4 (NamePattern1) 2729**] [**Last Name (NamePattern1) 3695**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 120**] [**Last Name (NamePattern1) 121**], M.D.     Approved: TUE [**3289-2-8**] 4:27 PM
+
+
+             Date Mailed: [**3289-2-9**]                     West [**Medical Record Number 3696**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 85**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 86**].
+
+"	416.8
+19	19	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-21**] 9:59 PM
+     FEMUR (AP & LAT) RIGHT                                          Clip # [**Clip Number (Radiology) 2569**]
+     Reason: s/p fall, complete femur films.                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with Rt. Hip fx.                                                
+     REASON FOR THIS EXAMINATION:
+      s/p fall, complete femur films.                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right hip fracture.
+     
+     RIGHT KNEE, TWO VIEWS:  There is no fracture or dislocation visualized.  There
+     is no joint diffusion.
+                                                                           
+
+"	416.8
+20	20	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-21**] 9:58 PM
+     CHEST (PRE-OP AP ONLY)                                          Clip # [**Clip Number (Radiology) 2567**]
+     Reason: preop                                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with Rt. Hip fx.                                                
+     REASON FOR THIS EXAMINATION:
+      preop                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Preop for hip fracture.
+     
+     CHEST, ONE VIEW:  There are no comparisons.  The cardiac and mediastinal
+     contour is normal.  There are no infiltrates, effusions, pneumothorax, or
+     pulmonary vascular congestion.  There is a small rounded irregular density in
+     the region of the left costphrenic angle at the left lung base.
+     
+     IMPRESSION:  No acute cardiopulmonary process.  Small opacity at the left lung
+     base that requires follw up PA and lateral chest films when condition permits
+     to re-evaluate for resolution if this is atelectasis or if further workup by
+     CT is indicated ( Findings communicated to by E-mail to Dr
+     [**First Name8 (NamePattern2) 1710**] [**Last Name (NamePattern1) 2568**]).
+
+"	416.8
+21	21	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-21**] 7:35 PM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 2565**]
+     Reason: r/o frac                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with right hip  pain ttp s/p fall                               
+     REASON FOR THIS EXAMINATION:
+      r/o frac                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  77-year-old man with right hip pain and TTP, status post fall,
+     rule out fracture.
+     
+     TECHNIQUE:  AP view of the pelvis and two views of the right hip.
+     
+     FINDINGS:  There is a right nondisplaced intertrochanteric hip fracture. There
+     is an additional obliquely angled fracture through the greater trochanter.  In
+     addition, there is an avulsion fracture of the lesser trochanter with medial
+     displacement of the fracture fragment.  No other fractures are seen in the
+     pelvis.  Bony mineralization appears within normal limits.
+     
+     Findings have been communicated to Dr. [**Last Name (STitle) 2566**] at the time of dictation.
+     
+     
+     
+     
+
+"	416.8
+22	22	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-24**] 11:37 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 2573**]
+     Reason: Please eval. coronary system and do PE protocol to r/o PE.  
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with right hip fx, Troponins trending up.                       
+     REASON FOR THIS EXAMINATION:
+      Please eval. coronary system and do PE protocol to r/o PE.                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MULTIDETECTOR CT SCAN OF THE THORAX (CT ANGIOGRAM PROTOCOL).
+     
+     Multiplanar reconstructions in the sagittal and coronal plane are also
+     included.
+     
+     CLINICAL DETAILS:  Evaluate for pulmonary embolus.
+     
+     Central pulmonary arterial vasculature normal in caliber.  No evidence of
+     acute or chronic pulmonary embolus.  No pneumothorax, lung consolidation or
+     pleural effusions demonstrated.
+     
+     Minimal dependent bibasilar atelectatic change.
+     
+     Central airways are patent, no mediastinal or other lymphadenopathy.
+     
+     Normal heart size, some calcification of the proximal LAD and left circumflex
+     and more distal right coronary artery noted on the unenhanced CT.  The heart
+     size is normal.
+     
+     No concerning bone lesions demonstrated.  There is, however, greater than 50%
+     percent anterior wedge compression of the T7 vertebral body and approximately
+     50% anterior wedge compression fracture of the T3 vertebral body.  Anterior
+     and posterior vertebral body bone alignment remains intact, moderate kyphosis
+     of the upper thoracic spine.Several fractures of left ribs inferolaterally (at
+     least 4), many of these are likley old at least one has a linear lucency 
+     that may represent a more recent or subacute depending on clinical
+     correlation.
+     Incidental subcentimeter calcified granuloma noted in segment VII of the
+     liver.
+     
+     RECONSTRUCTIONS:
+     
+     Multiplanar reconstructions in the sagittal and coronal plane were also
+     included.
+     
+     CONCLUSION:
+     
+     1.  No acute or chronic pulmonary embolus demonstrated.
+     
+     2.  Greater than 50% wedge compression fracture of the T7 vertebral body and
+     less than 50% anterior wedge compression fracture of the T3 vertebral body.
+                                                                 (Over)
+
+     DATE: [**3063-3-24**] 11:37 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 2573**]
+     Reason: Please eval. coronary system and do PE protocol to r/o PE.  
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Associated moderate upper thoracic kyphosis.Liklet old left inferilateral
+     fracrures, at least one mat be subacute depending on clinical correlation.
+     
+     3.  Normal heart size, atherosclerotic calcification of the proximal LAD, left
+     circumflex, and more distal RCA noted on the unenhanced CT.
+     
+     
+     Discussed with Dr. [**Last Name (STitle) 2574**] the afternoon of [**3-24**].
+     
+     
+
+"	416.8
+23	23	618	RADIOLOGY_REPORT	"
+
+
+     REST THALLIUM                                                   Clip # [**Clip Number (Radiology) 2570**]
+     Reason: TROPONIN LEAK, CLEARANCE FOR PREOP  ?ISCHEMIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 77 year old man with recent MI. 
+      
+     INTERPRETATION: Following injection of Thallium while the patient was at rest, 
+     static images were obtained and analyzed.  
+      
+     Static SPECT slices in the horizontal long axis, vertical long axis and short 
+     axis show a moderate perfusion defect involving the inferior wall and lateral
+     wall. 
+      
+     IMPRESSION: Moderate perfusion defects involving the inferior and lateral walls
+     at rest.  Stress images not obtained due to recent MI.  Findings reported to Dr.
+     [**First Name8 (NamePattern2) 2571**] [**Last Name (NamePattern1) 2572**] by telephone at 11:45am on [**3063-3-24**]. 
+                                                                           
+
+             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.
+             [**Last Name (NamePattern5) 83**], M.D.          Approved: WED [**3063-3-25**] 4:23 PM
+
+
+             Date Mailed: [**3063-3-26**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 85**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 86**].
+
+"	416.8
+24	24	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-24**] 11:37 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 2573**]
+     Reason: Please eval. coronary system and do PE protocol to r/o PE.  
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with right hip fx, Troponins trending up.                       
+     REASON FOR THIS EXAMINATION:
+      Please eval. coronary system and do PE protocol to r/o PE.                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MULTIDETECTOR CT SCAN OF THE THORAX (CT ANGIOGRAM PROTOCOL).
+     
+     Multiplanar reconstructions in the sagittal and coronal plane are also
+     included.
+     
+     CLINICAL DETAILS:  Evaluate for pulmonary embolus.
+     
+     Central pulmonary arterial vasculature normal in caliber.  No evidence of
+     acute or chronic pulmonary embolus.  No pneumothorax, lung consolidation or
+     pleural effusions demonstrated.
+     
+     Minimal dependent bibasilar atelectatic change.
+     
+     Central airways are patent, no mediastinal or other lymphadenopathy.
+     
+     Normal heart size, some calcification of the proximal LAD and left circumflex
+     and more distal right coronary artery noted on the unenhanced CT.  The heart
+     size is normal.
+     
+     No concerning bone lesions demonstrated.  There is, however, greater than 50%
+     percent anterior wedge compression of the T7 vertebral body and approximately
+     50% anterior wedge compression fracture of the T3 vertebral body.  Anterior
+     and posterior vertebral body bone alignment remains intact, moderate kyphosis
+     of the upper thoracic spine.Several fractures of left ribs inferolaterally (at
+     least 4), many of these are likley old at least one has a linear lucency 
+     that may represent a more recent or subacute depending on clinical
+     correlation.
+     Incidental subcentimeter calcified granuloma noted in segment VII of the
+     liver.
+     
+     RECONSTRUCTIONS:
+     
+     Multiplanar reconstructions in the sagittal and coronal plane were also
+     included.
+     
+     CONCLUSION:
+     
+     1.  No acute or chronic pulmonary embolus demonstrated.
+     
+     2.  Greater than 50% wedge compression fracture of the T7 vertebral body and
+     less than 50% anterior wedge compression fracture of the T3 vertebral body.
+                                                                 (Over)
+
+     DATE: [**3063-3-24**] 11:37 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 2573**]
+     Reason: Please eval. coronary system and do PE protocol to r/o PE.  
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Associated moderate upper thoracic kyphosis.Liklet old left inferilateral
+     fracrures, at least one mat be subacute depending on clinical correlation.
+     
+     3.  Normal heart size, atherosclerotic calcification of the proximal LAD, left
+     circumflex, and more distal RCA noted on the unenhanced CT.
+     
+     
+     Discussed with Dr. [**Last Name (STitle) 2574**] the afternoon of [**3-24**].
+     
+     
+
+"	416.8
+25	25	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-25**] 5:00 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 2578**]
+     Reason: r/o PTX/Effusion/Tamponade                                  
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:  The tip of the intraaortic balloon pump terminates in the
+     descending aorta, approximately 7 cm below its optimal location.
+     
+     These findings were discussed with the clinicians caring for the patient at
+     approximately 11:20 p.m. on [**3063-3-25**].
+                                                                           
+
+
+     DATE: [**3063-3-25**] 5:00 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 58**] # [**Clip Number (Radiology) 2578**]
+     Reason: r/o PTX/Effusion/Tamponade                                  
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with CAD s/p CABG. Please page ordering PA with abnormalities.  
+     REASON FOR THIS EXAMINATION:
+      r/o PTX/Effusion/Tamponade                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CAD status post CABG.
+     
+     COMPARISON:  Chest x-ray from [**3063-3-25**].
+     
+     SINGLE PORTABLE AP SUPINE CHEST RADIOGRAPH:  Patient is status post CABG and
+     median sternotomy.  An endotracheal tube terminates 6.3 cm above the carina.
+     Swan-Ganz catheter tip appropriately positioned within the main pulmonary
+     artery.  Mediastinal as well as bilateral pleural drains are in place.  There
+     is mild pulmonary edema, slightly improved since the prior study.  The cardiac
+     and mediastinal contours have a postoperative appearance.
+     
+     IMPRESSION:
+     Lines and tubes in appropriate positions.  Improvement in pulmonary edema.
+
+"	416.8
+26	26	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-25**] 8:44 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2575**]
+     Reason: Eval for acute cardiopulm process including PE              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with recently positive p-MIBI going to cath lab today now with 
+      02 sat down to 88%Ra
+     REASON FOR THIS EXAMINATION:
+      Eval for acute cardiopulm process including PE                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 8:58 A.M., [**3-25**].
+     
+     HISTORY:  Hypoxia.  Probable MI.
+     
+     IMPRESSION:  AP chest compared to [**3-21**]:
+     
+     Mild-to-moderate pulmonary edema is new, although heart is normal size.  There
+     is no mediastinal vascular engorgement.  There is a small right pleural
+     effusion.  A crescentic right infrahilar opacity could represent fluid
+     collected in the major fissure.  No pneumothorax.  Dr. [**First Name4 (NamePattern1) 2576**] [**Last Name (NamePattern1) 2577**] was paged
+     to discuss these findings at the time of dictation.
+                                                                           
+
+"	416.8
+27	27	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-25**] 5:00 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 2578**]
+     Reason: r/o PTX/Effusion/Tamponade                                  
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:  The tip of the intraaortic balloon pump terminates in the
+     descending aorta, approximately 7 cm below its optimal location.
+     
+     These findings were discussed with the clinicians caring for the patient at
+     approximately 11:20 p.m. on [**3063-3-25**].
+                                                                           
+
+
+     DATE: [**3063-3-25**] 5:00 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 58**] # [**Clip Number (Radiology) 2578**]
+     Reason: r/o PTX/Effusion/Tamponade                                  
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with CAD s/p CABG. Please page ordering PA with abnormalities.  
+     REASON FOR THIS EXAMINATION:
+      r/o PTX/Effusion/Tamponade                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CAD status post CABG.
+     
+     COMPARISON:  Chest x-ray from [**3063-3-25**].
+     
+     SINGLE PORTABLE AP SUPINE CHEST RADIOGRAPH:  Patient is status post CABG and
+     median sternotomy.  An endotracheal tube terminates 6.3 cm above the carina.
+     Swan-Ganz catheter tip appropriately positioned within the main pulmonary
+     artery.  Mediastinal as well as bilateral pleural drains are in place.  There
+     is mild pulmonary edema, slightly improved since the prior study.  The cardiac
+     and mediastinal contours have a postoperative appearance.
+     
+     IMPRESSION:
+     Lines and tubes in appropriate positions.  Improvement in pulmonary edema.
+
+"	416.8
+28	28	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-26**] 3:27 PM
+     HIP 1 VIEW PORT                                                 Clip # [**Clip Number (Radiology) 2579**]
+     Reason: monitor hip fx                                              
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with right hip  pain ttp s/p fall                              
+       
+     REASON FOR THIS EXAMINATION:
+      monitor hip fx                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Monitor hip fracture.
+     
+     COMPARISON:  [**3063-3-21**].
+     
+     Single view of the right hip.
+     
+     Again seen is intertrochanteric fracture with avulsion of the lesser
+     trochanter.  Alignment of the fracture is unchanged compared to prior study.
+     No other fractures are identified.
+     
+
+"	416.8
+29	29	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-27**] 7:40 AM
+     [**Last Name (un) 238**] DUP EXTEXT BIL (MAP/DVT)                                    Clip # [**Clip Number (Radiology) 2580**]
+     Reason: bilat lower extrem doppler r/o DVT, please do prtable patien
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man s/p CABG also s/p R hip fracture                                
+     REASON FOR THIS EXAMINATION:
+      bilat lower extrem doppler r/o DVT, please do prtable patient intubated         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  77-year-old post-CABG and with right hip fracture with lower
+     extremity swelling.
+     
+     [**Doctor Last Name 103**] scale and pulse color Doppler images of the right and left common
+     femoral, greater saphenous, superficial femoral, deep femoral, and popliteal
+     veins was performed.  There is normal compressibility, color flow, waveforms,
+     and augmentation.
+     
+     IMPRESSION:  No DVT in either the right or left leg.
+                                                                           
+
+"	416.8
+30	30	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-27**] 3:40 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 58**] # [**Clip Number (Radiology) 2582**]
+     Reason: s/p ct d/c                                                  
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 year old man with CAD s/p CABG. Please page ordering PA with 
+      abnormalities.   
+     REASON FOR THIS EXAMINATION:
+      s/p ct d/c                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     COMPARISON:  Previous study of earlier the same date.
+     
+     INDICATION:  Chest tube removal.
+     
+     The heart is enlarged but stable in size.  Bibasilar atelectatic changes are
+     again demonstrated.  There are small pleural effusions, not clearly seen on
+     the recent study.  No pneumothorax is identified.
+                                                                           
+
+"	416.8
+31	31	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-27**] 3:40 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 58**] # [**Clip Number (Radiology) 2582**]
+     Reason: s/p ct d/c                                                  
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 year old man with CAD s/p CABG. Please page ordering PA with 
+      abnormalities.   
+     REASON FOR THIS EXAMINATION:
+      s/p ct d/c                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     COMPARISON:  Previous study of earlier the same date.
+     
+     INDICATION:  Chest tube removal.
+     
+     The heart is enlarged but stable in size.  Bibasilar atelectatic changes are
+     again demonstrated.  There are small pleural effusions, not clearly seen on
+     the recent study.  No pneumothorax is identified.
+                                                                           
+
+"	416.8
+32	32	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-27**] 11:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2581**]
+     Reason: s/p ct d/c                                                  
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with CAD s/p CABG. Please page ordering PA with abnormalities. 
+       
+     REASON FOR THIS EXAMINATION:
+      s/p ct d/c                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CABG with removal of chest tubes.
+     
+     COMPARISON:  [**3063-3-25**].
+     
+     AP UPRIGHT CHEST RADIOGRAPH:  There has been interval removal of chest tubes,
+     right IJ sheath and associated Swan-Ganz catheter, intra-aortic balloon pump,
+     and mediastinal drains.  There is no pneumothorax.  The appearance of the
+     mediastinum is slightly prominent, though improved from [**3063-3-25**]
+     consistent with resolving postoperative changes.  Pulmonary edema has also
+     improved in the interval.
+     
+     IMPRESSION:  Interval removal of lines and tubes without pneumothorax.
+                                                                           
+
+"	416.8
+33	33	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-31**] 10:09 AM
+     HIP UNILAT MIN 2 VIEWS RIGHT IN O.R.; LOWER EXTREMITY FLUORO WITHOUT RADIOLOGIST IN O.R. RIGHTClip # [**Telephone/Fax (1) 2583**]
+     Reason: DHS RT HIP FX
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Right hip, two views, [**3063-3-31**].
+     
+     HISTORY:  Right hip fracture status post ORIF.
+     
+     FINDINGS:  Four fluoroscopic images from the operating room have been
+     submitted for dictation without a radiologist present.  These demonstrate
+     interval placement of a dynamic hip screw and lateral plate fixating an
+     intertrochanteric fracture of the right proximal hip.  There is a displaced
+     lesser trochanter fracture.  These findings do not appear significantly
+     changed since the previous study of [**3063-3-21**].  Please refer to the
+     surgical report for further details.
+                                                                           
+
+"	416.8
+34	34	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-3-31**] 10:09 AM
+     HIP UNILAT MIN 2 VIEWS RIGHT IN O.R.; LOWER EXTREMITY FLUORO WITHOUT RADIOLOGIST IN O.R. RIGHTClip # [**Telephone/Fax (1) 2583**]
+     Reason: DHS RT HIP FX
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Right hip, two views, [**3063-3-31**].
+     
+     HISTORY:  Right hip fracture status post ORIF.
+     
+     FINDINGS:  Four fluoroscopic images from the operating room have been
+     submitted for dictation without a radiologist present.  These demonstrate
+     interval placement of a dynamic hip screw and lateral plate fixating an
+     intertrochanteric fracture of the right proximal hip.  There is a displaced
+     lesser trochanter fracture.  These findings do not appear significantly
+     changed since the previous study of [**3063-3-21**].  Please refer to the
+     surgical report for further details.
+                                                                           
+
+"	416.8
+35	35	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-4-2**] 10:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2589**]
+     Reason: s/p CABG w/? free air-PLEASE DO FULL UPRIGHT LOW CHEST CXR  
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         77 year old man with CAD s/p CABG. Please page ordering PA with  
+      abnormalities.   
+     REASON FOR THIS EXAMINATION:
+      s/p CABG w/? free air-PLEASE DO FULL UPRIGHT LOW CHEST CXR                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     INDICATION:  Question free intraperitoneal air.
+     
+     A portable radiograph centered at the thoracoabdominal junction is submitted
+     for interpretation.  It demonstrates no evidence of free intraperitoneal air. 
+     Atelectatic changes are noted in the right middle lobe as well as minor
+     atelectatic changes in both lower lobes.
+     
+     IMPRESSION:  No evidence of free intraperitoneal air.
+                                                                           
+
+"	416.8
+36	36	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-4-2**] 11:15 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 2584**]
+     Reason: wbc                                                         
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man s/p CABG, hip fracture                                          
+     REASON FOR THIS EXAMINATION:
+      wbc                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  77-year-old man with status post CABG, hip fracture.  Elevated
+     white count.
+     
+     Comparison is made to [**3063-3-27**].
+     
+     AP SEMI-UPRIGHT RADIOGRAPH OF THE CHEST:  There are intact midline sternotomy
+     wires.  There are minimal atelectatic changes at both lung bases.  There also
+     is a lucid crescent in the proximity of the right hemidiaphragm.  In order to
+     exclude that this is free intraabdominal air, a left lateral decubitus film is
+     recommended.  The heart is normal in size.  The mediastinal and hilar contours
+     are unremarkable.  No evidence for consolidations.
+     
+     IMPRESSION:
+     1.  No evidence for pneumonia.
+     
+     2.  Minimal bibasilar atelectatic changes.
+     
+     3.  Lucid crescent in proximity of the right diaphragm.  In order to exclude
+     free intraabdominal air, a left lateral decubitus film centered on the right
+     diaphragm is recommended.
+     
+     Dr. [**Last Name (STitle) 2585**] was informed of the possibility of free intraabdominal air via
+     telephone at the time of dication.
+     
+
+"	416.8
+37	37	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-4-2**] 6:46 PM
+     CHEST (LAT DECUB ONLY)                                          Clip # [**Clip Number (Radiology) 2586**]
+     Reason: L Lat  decub film to r/o free air ? seen on CXR             
+     Admitting Diagnosis: HIP FRACTURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man s/p CABG                                                        
+     REASON FOR THIS EXAMINATION:
+      L Lat  decub film to r/o free air ? seen on CXR                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  77-year-old man status post CABG.  Question free air on recent
+     chest x-ray.
+     
+     COMPARISONS:  Earlier chest x-ray of the same day.
+     
+     CHEST, LEFT LATERAL DECUBITUS: There has been no significant change in the
+     appearance of the chest, allowing for differences in technique.
+     
+     A left- side downward decubitus view was performed, but this view is not
+     centered on the hemidiaphragm.  If free air were present adjacent to the
+     liver, it would not be seen on this view. If clinically indicated, a true
+     upright abdominal view or a left side down decubitus view, which includes
+     visualization in the right upper quadrant could be performed to rule out a
+     subtle manifestation of free air.
+     
+     IMPRESSION: No significant change, but non-diagnostic for free air. The
+     findings were discussed with [**First Name8 (NamePattern2) 2587**] [**Last Name (NamePattern1) 2588**] PA.
+
+"	416.8
+38	38	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-5-7**] 9:15 AM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 2590**]
+     Reason: monitor healing                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         77 year old man with right hip  pain ttp s/p fall                            
+           
+     REASON FOR THIS EXAMINATION:
+      monitor healing                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM ORDER:  Right hip.
+     
+     HISTORY:  Followup intertrochanteric fracture.
+     
+     RIGHT HIP:  A single AP view of pelvis and AP and frog-leg leg lateral views
+     of right hip show right intertrochanteric fracture maintained in position with
+     a dynamic compression hip screw.  The fracture is impacted and the femoral
+     head is in valgus alignment.  There is also offset of the fracture fragments.
+     Note is also made of superiorly migrated lesser trochanteric fragment at the
+     level of femoral head.  The articular cartilage is well maintained.  There is
+     degenerative disc disease in lower lumbar spine.
+     
+     IMPRESSION:  Healing right intertrochanteric fracture.
+
+"	416.8
+39	39	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-7-9**] 10:17 AM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 2591**]
+     Reason: s/p r hip fx                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         77 year old man with right hip  pain ttp s/p fall                            
+           
+     REASON FOR THIS EXAMINATION:
+      s/p r hip fx                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right hip pain status post fall.
+     
+     AP PELVIS AND AP AND LATERAL VIEWS OF THE RIGHT HIP.
+     `
+     The patient is status post placement of a right hip DHS, securing a right
+     intratrochanteric fracture.  The fracture line remains partially visible,
+     though there is callus and bridging bone.  No hardware loosening is
+     identified.  Some backing out of the central screw is present, but the
+     appearance is unchanged compared with [**3063-5-7**].  There has been interval
+     progression of heterotopic ossification about the right proximal femur.
+
+"	416.8
+40	40	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-7-13**] 2:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2592**]
+     Reason: assess for chf                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with sob                                                        
+     REASON FOR THIS EXAMINATION:
+      assess for chf                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.
+     
+     COMPARISON:  Chest x-ray from [**3063-4-2**].
+     
+     SINGLE PORTABLE AP UPRIGHT CHEST RADIOGRAPH:  The patient is status post
+     median sternotomy.  The aorta is tortuous.  There are prominent perihilar
+     opacities, and upper zone vascular redistribution.  There are bilateral
+     pleural effusions, right greater than left.  There is bibasilar atelectasis.
+     The heart is at the upper limits of normal in size.  Surrounding osseous and
+     soft tissue structures demonstrate distension of the stomach with air.
+     
+     IMPRESSION:  Findings consistent with moderate congestive heart failure.
+     Bilateral small pleural effusions, right greater than left.
+     
+     
+     
+
+"	416.8
+41	41	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-9-10**] 6:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2593**]
+     Reason: r/o pna, chf                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 yo male with SOB h/o cardiac bypass                                          
+                 
+     REASON FOR THIS EXAMINATION:
+      r/o pna, chf                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  78-year-old man with shortness of breath and history of cardiac
+     bypass.  Evaluate for pneumonia, CHF.
+     
+     COMPARISON:  [**3063-7-13**].
+     
+     PORTABLE AP CHEST RADIOGRAPH:  Again seen are median sternotomy wires from
+     prior surgery.  The cardiac and mediastinal contours are within normal limits.
+     There are small bilateral pleural effusions with associated atelectasis. 
+     There is mild prominence of the perihilar vasculature, with mild upper lung
+     zone redistribution.  Soft tissue and osseous structures are stable.
+     
+     IMPRESSION:  Findings are consistent with mild CHF.
+                                                                           
+
+"	416.8
+42	42	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-12-16**] 1:13 AM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 2595**]
+     Reason: S/P FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with fal.                                                       
+     REASON FOR THIS EXAMINATION:
+      r/o c-spine fract; no focal tenderness                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DJD WED [**3063-12-16**] 2:40 AM
+      multilevel degenerative changes.
+      no fracture identified.
+      
+      Overread:
+      Agree
+      
+      [**Name Initial (MD) **] [**Name8 (MD) 925**] MD
+     WET READ AUDIT #1 JJMl WED [**3063-12-16**] 2:08 AM
+      multilevel degenerative changes.
+      no fracture identified.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Status post fall.  No focal tenderness.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT-acquired images of the cervical spine were obtained with
+     coronal and sagittal reformatted images.
+     
+     CT C-SPINE:  The alignment is normal.  There are multilevel degenerative
+     changes.  No fracture is identified.  There is no prevertebral soft tissue
+     swelling.  Incidental note made of tonsillar calcifications bilaterally, some
+     quite superficial in locale, and likely post-inflammatory in origin . Imaged
+     portions of the lung apices are clear. There are aortic calcifications and
+     also involving the origin of the left subclavian artery,  common carotid
+     bifurcations and distal left vertebral artery, likely atherosclerotic in
+     origin.
+     
+     IMPRESSION:  No evidence of acute fracture or dislocation.
+     
+     ADDENDUM AT ATTENDING REVIEW: There is a moderate anterior wedge compression
+     fracture of the T3 vertebral body. The presence of adjacent osteophytes raises
+     the possibility that the fracture is chronic, but this observation requires
+     clinical correlation.
+     
+     There is a 7mm rounded lymph node in the right submental region. Etiology for
+     this finding is uncertain, and may require further workup as well.
+     
+     ED QA nursing dep't telephoned with these report modifications today.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3063-12-16**] 1:13 AM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 2595**]
+     Reason: S/P FALL
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+
+"	416.8
+43	43	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-12-16**] 1:20 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 2596**]
+     Reason: r/o pna                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with fall.                                                      
+     REASON FOR THIS EXAMINATION:
+      r/o pna                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Followup.  Rule out pneumonia.
+     
+     COMPARISON:  Radiograph dated [**3063-9-10**].
+     
+     SUPINE PORTABLE VIEW OF THE CHEST:  Patient is rotated to the left.  Multiple
+     median sternotomy wires appear intact.  The cardiac and mediastinal contours
+     are stable, with a left ventricular configuration of the heart again noted.
+     There is interval improvement in the previously demonstrated CHF/pulmonary
+     edema.  There is a vertically oriented ovoid lucency that projects at the left
+     lung apex,  probably due to the patient's left rotation.  There may be minimal
+     right basilar atelectasis.  There is mild pulmonary vascular prominence.
+     
+     IMPRESSION: Interval resolution in pulmonary edema
+
+"	416.8
+44	44	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-12-16**] 1:12 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2594**]
+     Reason: S/P FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with fal.                                                       
+     REASON FOR THIS EXAMINATION:
+      r/o bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JJMl WED [**3063-12-16**] 2:03 AM
+      no acute bleed.
+      moderate ethmoid opacification.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Status post fall, rule out bleed.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired images of the head obtained without IV contrast.
+     
+     FINDINGS:  There is no evidence of acute intra- or extra-axial hemorrhage. The
+     [**Doctor Last Name **]-white matter differentiation appears preserved.  There is no
+     hydrocephalus or shift of normally midline structures.  The basal cisterns
+     appear patent.  No fractures are identified.  There is moderate opacification
+     of the ethmoid sinuses bilaterally.
+     
+     IMPRESSION:
+     
+     1.  No evidence of acute intracranial hemorrhage or fracture.
+     2.  Moderate ethmoid sinus opacification.
+     
+     ADDENDUM AT ATTENDING REVIEW: There is an appoximately 1.5cm low density area
+     in the left lentiform nucleus, and a punctate low density region in the right
+     lentiform nucleus, likely representing chronic small vessel infarcts.   ED QA
+     nursing team notified by telephone today at 10:45AM.
+
+"	416.8
+45	45	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-12-18**] 10:50 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2597**]
+     Reason: Evaluate for intracranial hemorrhage.                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with history of multiple falls, now s/p fall with ? LOC, on 
+      anticoagulation
+     REASON FOR THIS EXAMINATION:
+      Evaluate for intracranial hemorrhage.                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DRT FRI [**3063-12-18**] 11:43 AM
+      No intracranial hemorrhage; no chg from the [**12-16**] study.
+      Mild atrophy, L > R basal ganglia chr. lacunes, ethmoid inflamm dz.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE HEAD WITHOUT CONTRAST dated [**3063-12-18**].
+     
+     HISTORY:  78 year-old man with history of multiple falls, now status post fall
+     with ?LOC, on anticoagulation; evaluate for intracranial hemorrhage.
+     
+     TECHNIQUE:  Contiguous 5 mm axial tomographic sections were obtained from the
+     skull base to the vertex and viewed in brain and bone window on the
+     workstation.
+     
+     FINDINGS:  Study is compared with the recent NECT, dated [**3063-12-16**]; there is no
+     significant overall change.  There is swelling of the left frontovertex scalp
+     soft tissues with skin staples at site of laceration, not present previously.
+     No underlying skull fracture is seen.  There is no intra- or extra-axial
+     hemorrhage and the midline structures are in the midline.  There is mild,
+     proportionate prominence of the cortical sulci and fissures and ventricles and
+     cisterns, representing mild atrophy.  There are irregular low-attenuation foci
+     in bilateral lentiform nuclei, left more than right, with some volume loss and
+     ex vacuo dilatation of the ipsilateral sylvian fissure, representing confluent
+     chronic lacunar infarcts.  There is no specific evidence of acute vascular
+     territorial infarction.  There is extensive opacification of bilateral ethmoid
+     air cells, right more than left.  The mastoid air cells and middle ear
+     cavities are clear.
+     
+     IMPRESSION:
+     
+     1.  No definite acute intracranial abnormality.
+     
+     2.  Mild atrophy and left more than right basal ganglia chronic lacunes, with
+     some volume loss.
+     
+     3.  Chronic-appearing ethmoid inflammatory disease.
+     
+     COMMENT:  These findings were transmitted electronically to the [**Hospital Unit Name 322**] at time of
+     this dictation.
+                                                                 (Over)
+
+     DATE: [**3063-12-18**] 10:50 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 2597**]
+     Reason: Evaluate for intracranial hemorrhage.                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+"	416.8
+46	46	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-12-18**] 3:42 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 2599**]
+     Reason: r/o fx                                                      
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man with fall                                                      
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  78-year-old man status post fall.
+     
+     COMPARISON:  [**3063-12-16**].
+     
+     TECHNIQUE:  Multidetector axial images of the cervical spine were obtained
+     without contrast.  Coronal and sagittal reformatted images were obtained.
+     
+     FINDINGS:  There is no evidence of cervical spine fracture or abnormal
+     alignment of the component vertebrae.  Mild cervical spondylosis is again
+     noted.  The T3 wedge compression fracture is stable dating back to [**3063-3-24**]. 
+     There is no prevertebral soft tissue swelling.  The visualized outline of the
+     thecal sac is unremarkable.
+     
+     IMPRESSION:  No evidence of cervical spine fracture.  Stable wedge deformity
+     of T3 dating back to [**3063-3-24**].
+                                                                           
+
+"	416.8
+47	47	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-12-18**] 2:46 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2598**]
+     Reason: eval for infiltrate/signs of failure                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man s/p syncope.                                                    
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate/signs of failure                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  78-year-old man with syncope.  Evaluate for failure.
+     
+     CHEST:  Patient is status post sternotomy.  The heart remains enlarged.  Some
+     upper zone redistribution is present particularly when compared to the prior
+     chest x-ray of [**3063-12-16**], mild blunting of the costophrenic angles is
+     present.
+     
+     IMPRESSION:  Interstitial pulmonary edema is present.
+                                                                           
+
+"	416.8
+48	48	618	RADIOLOGY_REPORT	"
+
+
+"	416.8
+49	49	618	RADIOLOGY_REPORT	"
+
+
+     DATE: [**3063-12-20**] 11:37 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 2600**]
+     Reason: evaluate CHF                                                
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        78 year old man admitted with sepsis, now in CHF d/t fluids.                  
+                                       
+     REASON FOR THIS EXAMINATION:
+      evaluate CHF                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Sepsis and CHF.
+     
+     CHEST:  There is evidence of prior CABG.  The heart is enlarged, tortuosity of
+     the aorta is present.  Some upper zone redistribution and blunting of both
+     costophrenic angles is present consistent with some failure.  The effusions
+     are new since the prior chest x-ray of [**12-18**].
+                                                                           
+
+"	416.8
