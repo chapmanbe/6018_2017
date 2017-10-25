@@ -1,0 +1,1154 @@
+BEGIN REPORT
+A carotid u/s showed ""no changes from previous"", but by report, 
+ unsure of previous findings.
+
+END REPORT
+BEGIN REPORT
+Carotid dopplers ([**1-30**]) notable for 60-69%R ICA occlusion and 
+ L-vertebral not visualized (so could be occulded or hypoplastic)
+
+END REPORT
+BEGIN REPORT
+Ultrasound of the carotids revealed right ICA with 80-99% occlusion and L ICA with 40% 
+ occlusion.
+ "
+ AM
+
+END REPORT
+BEGIN REPORT
+CAROTID SERIES COMPLETE
+ 
+ Reason: TIA
+ 
+ UNDERLYING MEDICAL CONDITION:
+ 72 year old man with TIA 
+ REASON FOR THIS EXAMINATION:
+ Eval for carotid stenosis 
+ CAROTID STUDY
+ 
+ HISTORY: TIA.
+ 
+ FINDINGS: No prior studies for comparison. There is complete 
+ occlusion of the left ICA and associated internalization of the 
+ external carotid artery on the left. There is also absent flow 
+ involving the left vertebral artery. There is a significant 
+ focal hypoechoic plaque involving the right ICA. Similar plaque 
+ involving the right ECA. The peak systolic velocities on the 
+ right are 264, 56, and 15 cm per second for the ICA, CCA, and 
+ ECA respectively. The ICA to CCA ratio is 5.3. There is 
+ antegrade flow involving the right vertebral artery.
+ 
+ IMPRESSION:
+ 
+ 1. Occluded left-sided ICA and left-sided vertebral artery.
+ 
+ 2. 70-79% right ICA stenosis.
+ 
+ 3. Near occlusion of the right external carotid artery.
+ 
+
+END REPORT
+BEGIN REPORT
+EXAM: MRI of the brain and MRA of the head and neck.
+ 
+ CLINICAL INFORMATION: Patient with left internal carotid artery 
+ occlusion and right ICA stenosis, for further evaluation to 
+ exclude stroke and also to evaluate the cerebral blood vessels.
+ 
+ 
+ 
+ MRA OF THE NECK:
+ 
+ The neck MRA demonstrates normal flow signal in the right 
+ vertebral artery. The right internal carotid demonstrates 
+ high-grade approximately 70% stenosis at the bifurcation. The 
+ evaluation of the right carotid stenosis on the post- gadolinium 
+ MRA is limited secondary to venous contamination.
+ 
+ The left internal carotid is occluded at the bifurcation. No 
+ flow is visualized in the distal cervical left internal carotid 
+ artery. No flow is seen in the left petrous carotid artery.
+ 
+ The evaluation of the left vertebral artery on source images 
+ demonstrate flow signal in a markedly narrowed left vertebral 
+ artery in the proximal portion. Subtle flow signal is also seen 
+ in the left V3 segment of the vertebral artery. This finding is 
+ indicative of diffuse atherosclerotic disease involving the left 
+ vertebral artery. The visualized great vessels of the thoracic 
+ inlet demonstrate no evidence of high-grade stenosis.
+ 
+ IMPRESSION: 1. Occlusion of the left internal carotid artery at 
+ the bifurcation. 2. High-grade stenosis of the right internal 
+ carotid bifurcation. Normal right vertebral artery. 3. Diffuse 
+ atherosclerotic disease involving left vertebral artery with 
+ partial visualization in the proximal and distal portions.
+ 
+ MRA OF THE HEAD:
+ 
+ The head MRA demonstrates absence of flow signal in the distal 
+ left internal carotid artery. The supraclinoid internal carotid 
+ artery is minimally visualized with flow visualized from the 
+ left PCA to the left middle cerebral artery. On the right side 
+ normal flow signal is seen in the supraclinoid internal carotid, 
+ right MCA and both anterior cerebral arteries. The posterior 
+ communicating artery is also visualized on the right side.
+ 
+ In the posterior circulation, diffuse narrowing of the basilar 
+ artery is visualized with absence of flow signal in the distal 
+ basilar artery indicative of diffuse atherosclerotic disease 
+ with high-grade stenosis or occlusion of the distal basilar 
+ artery. Both distal vertebral arteries demonstrate narrowed flow 
+ signal caliber.
+ 
+ IMPRESSION:
+ 1. Occlusion of the left internal carotid with collateral flow 
+ to the left MCA through the left posterior communicating artery. 
+ Normal flow signal in the right supraclinoid internal carotid, 
+ right MCA and both anterior cerebral arteries. Diffuse 
+ atherosclerotic disease of the basilar artery with probable 
+ occlusion or high-grade stenosis in the distal basilar artery.
+
+END REPORT
+BEGIN REPORT
+  CAROTID SERIES COMPLETE PORT  [**2679-2-14**] 2:44 PM
+ 
+ CAROTID SERIES COMPLETE PORT
+ 
+ Reason: Eval. for stenosis 
+ 
+ UNDERLYING MEDICAL CONDITION:
+ 78 year old woman with recent aneurysm coiling, with new 
+ cerebellar stroke 
+ REASON FOR THIS EXAMINATION:
+ Eval. for stenosis 
+ CAROTID STUDY
+ 
+ HISTORY: Aneurysmal coiling with cerebellar stroke.
+ 
+ FINDINGS: No appreciable plaque or wall thickening involving 
+ either carotid system. The peak systolic velocities bilaterally 
+ are normal as are the ICA/CCA ratios. There is normal antegrade 
+ flow in both vertebral arteries.
+ 
+ IMPRESSION: Normal study.
+ 
+  Carotid US showed no appreciable plaque or wall thickening involving either 
+ carotid system.
+ Carotid U/S [**2-25**]: NO significant stenosis
+
+END REPORT
+BEGIN REPORT
+
+ Angio of chest: suggestion of a 50% stenosis 
+ in the distal right CCA just below the level of the bulb with a 
+ significant amount of soft tissue plaque. Possible moderate to
+ severe stenosis of the proximal left internal carotid artery 
+ with soft and hard plaque present. Atherosclerotic plaque noted 
+ at the level of the thoracic arch.
+
+END REPORT
+BEGIN REPORT
+CAROTID ULTRASOUND 
+ 1.  On the right, peak systolic velocities are 157, 69, 122 in 
+ the ICA, CCA, ECA respectively.  ICA to CCA ratio is 2.6.  This 
+ is consistent with a 60-69% stenosis. 
+ 2.  On the left, peak systolic velocities are 180, 50, 80 in the 
+ ICA, CCA, ECA respectively.  The ICA to CCA ratio is 2.6.  This 
+ is consistent with a 60-69% stenosis. 
+ 3.  There is antegrade flow in both vertebral arteries. 
+ IMPRESSION:  Moderate plaque with bilateral 60-69% carotid 
+ stenosis. 
+
+END REPORT
+BEGIN REPORT
+ MRA OF THE NECK  
+ 1. Moderate, approximately 60% stenosis at the distal common 
+ carotid artery on the right side. 
+ 2. The carotid bulb and the internal carotid arteries appear 
+ normal. 
+ 3. On the left side, there is mild atherosclerotic disease seen 
+ at the proximal internal carotid artery. A narrowing is 
+ approximately 25-30% on the left side.  
+ 4. Both vertebral arteries demonstrate normal flow signal. 
+ IMPRESSION:  50-60% stenosis at the distal right common carotid 
+ artery.  Mild atherosclerotic disease at left common, internal 
+ carotid.  Normal vertebral arteries. 
+
+END REPORT
+BEGIN REPORT
+
+ Carotid ultrasound 
+ and MRA were performed. Please refer to details of the neurology 
+ consult note. On [**9-7**] peripheral angiography of the carotids was 
+ done. Per preliminary report:  
+ 1. Thoracic aorta - Type 1 arch without lesions 
+ 2. Right Carotid - The RCCA is normal. The ICA prior to the CEA 
+ site has a proximal
+ 40% lesion with proximal ulceration noted. The outflow is patent 
+ to the brain. The MCA and ACA fill without lesions. There is a 
+ patent fetal PCA. 
+ 3. The LCCA is normal. The ICA has mild disease of 50% lesion 
+ with serial calcific
+ lesions. The ACA and MCA fill the brain without lesions. 
+ 
+ EOR
+ CAROTID U/S: FINDINGS: The bilateral common carotid artery, 
+ internal carotid artery and external carotid artery are widely 
+ patent and demonstrate normal arterial waveforms. The bilateral 
+ vertebral arteries are antegrade in direction.
+ 
+ Peak systolic velocities of the right internal carotid artery is 
+ 78 cm/sec with a right ICA/CCA ratio of 0.78. No evidence of 
+ intraluminal plaque.
+ 
+ Peak systolic velocity of the left internal carotid artery is 
+ 109 cm/sec, corresponding to a left ICA/CCA ratio of 1.4. No 
+ evidence of intraluminal plaque.
+ 
+ IMPRESSION: Normal carotid ultrasound. No evidence of 
+ hemodynamically significant stenosis.
+
+END REPORT
+BEGIN REPORT
+He was imaged and
+ found to have  complete occlusion of the L ICA at the 
+ bifurcation
+ as well as R ICA stenosis in the cavernous portion.
+ 
+ 
+ He also had a carotid ultrasound that reported carotid stenosis 
+ with velocities >200 specially on the left side.
+
+END REPORT
+BEGIN REPORT
+
+ 
+ CAROTID SERIES COMPLETE
+ 
+ REASON: Stroke.
+ 
+ FINDINGS: Duplex evaluation was performed of both carotid 
+ arteries. Minimal plaque was identified.
+ 
+ On the right, peak systolic velocities are 65, 139, 279 in the 
+ ICA, CCA, and ECA respectively. The ICA to CCA ratio is 0.5. 
+ This is consistent with less than 40% stenosis.
+ 
+ On the left, peak systolic velocities are 87, 109, 115 in the 
+ ICA, CCA, and ECA respectively. The ICA to CCA ratio is 0.8. 
+ This is consistent with less than 40% stenosis.
+ 
+ There is antegrade flow in the right vertebral artery. The left 
+ vertebral artery was not visualized.
+ 
+ IMPRESSION: Minimal plaque with bilateral less than 40% carotid 
+ stenosis.
+
+END REPORT
+BEGIN REPORT
+Carotid US 
+ were done, these showed <40% bilateral carotid stenosis..
+ 9)
+
+END REPORT
+BEGIN REPORT
+ FINAL REPORT
+      CAROTID ULTRASOUND EXAMINATION.
+      
+      INDICATION:  75-year-old man with known coronary artery disease, preoperative
+      evaluation for CABG.
+      
+      FINDINGS:  Carotid arteries were examined bilaterally.
+      
+      RIGHT SIDE:  There is a mild plaque at the origin of the internal carotid
+      artery with peak systolic velocity 80 cm/sec.  The peak systolic velocity in
+      the common carotid artery 57 cm/sec, and external carotid artery 112 cm/sec.
+      ICA/CCA ratio 1.4.  The flow in the vertebral artery is in antegrade
+      direction.
+      
+      LEFT SIDE:  There is a mild plaque at the origin and proximal internal carotid
+      artery.  The peak systolic velocity in the common carotid artery 74 cm/sec,
+      internal carotid artery 75 cm/sec, and external carotid artery 69 cm/sec.
+      ICA/CCA ratio 1.0.  The flow in the vertebral artery is in antegrade
+      direction.
+      
+      IMPRESSION:  Mild plaque in the internal carotid arteries bilaterally with
+      less than 40% stenosis.
+
+END REPORT
+BEGIN REPORT
+ FINAL REPORT
+      CAROTID ULTRASOUND
+      
+      INDICATION:  87-year-old woman, preoperative evaluation for CABG.
+      
+      FINDINGS:  Carotid ultrasound examination was performed bilaterally.
+      
+      RIGHT SIDE:  There is no significant atherosclerotic disease with peak
+      systolic velocities in the common carotid artery 86 cm/sec, internal carotid
+      artery 89 cm/sec and external carotid artery 94 cm/sec.  ICA/CCA ratio 1.03.
+      The flow in the vertebral artery is in antegrade direction.
+      
+      LEFT SIDE:  There are no significant atherosclerotic changes with peak
+      systolic velocity in the common carotid artery 86 cm/sec, internal carotid
+      artery 97 cm/sec and external carotid artery 92 cm/sec.  ICA/CCA ratio 1.12.
+      The vertebral artery is not clearly visualized.
+      
+      IMPRESSION:
+      1.  Less than 40% stenosis of the internal carotid arteries bilaterally.
+      2.  Nonvisualization of the left vertebral artery.
+      
+      ","(null)","(null)"
+ "35","11711","27335","(null)","(null)","3222-04-06 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+
+END REPORT
+BEGIN REPORT
+     DATE: [**3222-4-6**] 7:28 AM
+      CAROTID SERIES COMPLETE; ART EXT (REST&EXERCISE)                Clip # [**Clip Number (Radiology) 458**]
+      Reason: pre op mini thoracotomy mazew/pulmonary vein isolation & res
+  
+ 
+  FINAL REPORT
+      CAROTID ULTRASOUND AND ARTERIAL LEG ULTRASOUND
+      
+      INDICATION:  68-year-old man with history of atrial fibrillation, preoperative
+      evaluation for a mini-thoracotomy.
+      
+      The patient also has leg claudication.
+      
+      FINDINGS:  Carotid ultrasound.
+      
+      RIGHT SIDE:  There is a minimal plaque at the origin of the internal carotid
+      artery with peak systolic velocity 76 cm/s.  The peak systolic velocity in the
+      common carotid artery 73 cm/s and external carotid artery 108 cm/s.  ICA/CCA
+      ratio 1.0.  The flow in the vertebral artery is in antegrade direction.
+      
+      LEFT SIDE:  There is a minimal plaque in the proximal internal carotid artery
+      with peak systolic velocity 65 cm/s.  The peak systolic velocity in the common
+      carotid artery 57 cm/s and external carotid artery 57 cm/s.  ICA/CCA ratio
+      1.1.  The flow in the vertebral artery is in antegrade direction.
+      
+      Leg arterial ultrasound was performed.
+      
+      RIGHT.
+      
+      There is triphasic flow pattern on the femoral, popliteal, posterior tibial
+      and dorsalis pedis arteries bilaterally.  The pulse volume recording
+      demonstrates unremarkable amplitude at all levels on both legs.  The segmental
+      limb pressures are also unremarkable.  The ankle brachial index at rest 1.07
+      on the right and 1.21 on the left.  The patient was exercised on treadmill at
+      1.5 mph, 10-degree gradient for 5 minutes without developing symptoms.  The
+      ankle brachial index returned to baseline at 1 minute post-exercise
+      bilaterally.
+      
+      IMPRESSION:
+      1.  Less than 40% stenosis of the internal carotid arteries bilaterally.
+      2.  No evidence of significant peripheral vascular disease on both legs at
+      rest and post-exercise.
+                                                                            
+ 
+ ","(null)","(null)"
+ "36","11711","27335","(null)","(null)","3222-04-06 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+
+END REPORT
+BEGIN REPORT
+
+      DATE: [**3222-4-6**] 7:28 AM
+      CAROTID SERIES COMPLETE; ART EXT (REST&EXERCISE)                Clip # [**Clip Number (Radiology) 458**]
+      Reason: pre op mini thoracotomy mazew/pulmonary vein isolation & res
+      
+ 
+ UNDERLYING MEDICAL CONDITION:
+       68 year old man with history paroxymal atrial fibrillation                      
+      REASON FOR THIS EXAMINATION:
+       pre op mini thoracotomy mazew/pulmonary vein isolation & resection of left 
+       atrial appendage
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      CAROTID ULTRASOUND AND ARTERIAL LEG ULTRASOUND
+      
+      INDICATION:  68-year-old man with history of atrial fibrillation, preoperative
+      evaluation for a mini-thoracotomy.
+      
+      The patient also has leg claudication.
+      
+      FINDINGS:  Carotid ultrasound.
+      
+      RIGHT SIDE:  There is a minimal plaque at the origin of the internal carotid
+      artery with peak systolic velocity 76 cm/s.  The peak systolic velocity in the
+      common carotid artery 73 cm/s and external carotid artery 108 cm/s.  ICA/CCA
+      ratio 1.0.  The flow in the vertebral artery is in antegrade direction.
+      
+      LEFT SIDE:  There is a minimal plaque in the proximal internal carotid artery
+      with peak systolic velocity 65 cm/s.  The peak systolic velocity in the common
+      carotid artery 57 cm/s and external carotid artery 57 cm/s.  ICA/CCA ratio
+      1.1.  The flow in the vertebral artery is in antegrade direction.
+      
+      Leg arterial ultrasound was performed.
+      
+      RIGHT.
+      
+      There is triphasic flow pattern on the femoral, popliteal, posterior tibial
+      and dorsalis pedis arteries bilaterally.  The pulse volume recording
+      demonstrates unremarkable amplitude at all levels on both legs.  The segmental
+      limb pressures are also unremarkable.  The ankle brachial index at rest 1.07
+      on the right and 1.21 on the left.  The patient was exercised on treadmill at
+      1.5 mph, 10-degree gradient for 5 minutes without developing symptoms.  The
+      ankle brachial index returned to baseline at 1 minute post-exercise
+      bilaterally.
+      
+      IMPRESSION:
+      1.  Less than 40% stenosis of the internal carotid arteries bilaterally.
+      2.  No evidence of significant peripheral vascular disease on both legs at
+      rest and post-exercise.
+                                                                            
+
+END REPORT
+BEGIN REPORT
+","(null)","(null)"
+ "37","14543","14851","(null)","(null)","3377-10-06 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**3377-10-6**] 10:09 AM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 10357**]
+      Reason: pre op               
+ 
+ UNDERLYING MEDICAL CONDITION:
+       58 year old man with 3V CAD for AVR/CABG                                        
+      REASON FOR THIS EXAMINATION:
+       pre op                                                                          
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      CAROTID ULTRASOUND EXAMINATION
+      
+      INDICATION:  58-year-old man with coronary artery disease, preoperative
+      evaluation for CABG and aortic valve replacement.
+      
+      FINDINGS:  Carotid ultrasound examination was performed bilaterally.
+      
+      RIGHT SIDE:  There is a mild plaque in the proximal internal carotid artery
+      and some diffuse wall thickening of the distal common carotid artery.  The
+      peak systolic velocity in the common carotid artery is 70 cm/sec, internal
+      carotid artery 61 cm/sec, and external carotid artery 81 cm/sec.  The flow in
+      the vertebral artery is in antegrade direction.  ICA/CCA ratio is 0.87.
+      
+      LEFT SIDE:  No significant plaque is noted in the common or internal carotid
+      arteries with respective peak systolic velocities 93 cm/sec, and 64 cm/sec.
+      The peak systolic velocity in the external carotid artery 83 cm/sec.  ICA/CCA
+      ratio is 0.68.  The flow in the vertebral artery is in antegrade direction.
+      
+      IMPRESSION:
+      
+      1.  Mild plaque in the right internal carotid artery and wall thickening of
+      the common carotid artery without evidence of hemodynamically significant
+      stenosis.
+      
+      2.  No evidence of hemodynamically significant stenosis in the left internal
+      carotid artery.
+      
+      
+      
+
+END REPORT
+BEGIN REPORT
+","(null)","(null)"
+ "38","14454","(null)","(null)","(null)","3299-04-13 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**3299-4-13**] 1:43 PM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 9537**]
+      Reason: PREOP, BRUITS
+      ______________________________________________________________________________
+   
+ 
+ UNDERLYING MEDICAL CONDITION:
+       59 year old man with severe aortic stenosis                                     
+      REASON FOR THIS EXAMINATION:
+       ? Bruits                                                                        
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      DUPLEX CAROTID ULTRASOUND
+      
+      INDICATION:  Severe aortic stenosis.  Pre-OP.  Carotid bruits.
+      
+      FINDINGS:  There was extensive plaque seen in the proximal right internal
+      carotid artery.  Only very mild atherosclerotic plaque was seen in the
+      proximal left ICA.
+      
+      Peak velocities on the right measured 288/120 cm/sec.  Peak systolic
+      velocities in the right CCA, ECA and vertebral arteries measured 82, 98, and
+      59 cm/sec respectively.  The right ICA/CCA ratio measures 3.5. There was
+      marked spectral broadening in the right ICA waveforms.
+      
+      On the left, the peak velocities in the ICA measured 94/33.  Peak systolic
+      velocities in the CCA, ECA, and vertebral measured respectively 88, 89, and 74
+      cm/sec.  Left ICA/CCA ratio measured 1.1.
+      
+      IMPRESSION:  Very severe 80-99% right proximal ICA stenosis.
+      
+      Less than 40% stenosis in the left ICA.
+      
+      
+
+END REPORT
+BEGIN REPORT
+","(null)","(null)"
+ "39","13727","27822","(null)","(null)","3291-07-31 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**3291-7-31**] 3:29 PM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 3072**]
+      Reason: r/o carotid stenosis                                        
+      
+  UNDERLYING MEDICAL CONDITION:
+       67 year old man with severe 3 vessel CAD for CABG in AM, on bedrest until 4PM.  
+      REASON FOR THIS EXAMINATION:
+       r/o carotid stenosis                                                            
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      CAROTID ULTRASOUND
+      
+      INDICATION:  67-year-old man with preoperative evaluation for CABG.
+      
+      FINDINGS:  Carotid ultrasound examination was performed bilaterally.
+      
+      RIGHT SIDE:  There is a mild plaque in the proximal internal carotid artery
+      with peak systolic velocity 80 cm/sec.  The peak systolic velocity in the
+      common carotid artery 74 cm/sec, and external carotid artery 112 cm/sec.
+      ICA/CCA ratio 1.1.  The flow in the vertebral artery is in antegrade
+      direction.
+      
+      LEFT SIDE:  There is a mild plaque in the proximal internal carotid artery
+      with peak systolic velocity 82 cm/sec.  The peak systolic velocity in the
+      common carotid artery 80 cm/sec, and external carotid artery 99 cm/sec.  ICA
+      slight CCA ratio 1.0.  The flow in the vertebral artery is in antegrade
+      direction.
+      
+      IMPRESSION:  Less than 40% stenosis of the internal carotid arteries
+      bilaterally.  This is a baseline examination at the [**Hospital1 1937**].
+      
+      
+      
+      
+
+END REPORT
+BEGIN REPORT
+     
+ 
+ ","(null)","(null)"
+ "40","18312","26763","22800","(null)","3197-02-17 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**3197-2-17**] 2:18 PM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 10978**]
+      Reason: S/P CABG, SLOW TO WAKE
+      Admitting Diagnosis: MYOCARDIAL INFARCTION
+     
+ 
+ 
+  UNDERLYING MEDICAL CONDITION:
+       81 year old woman with carotid bruit, s/p cabg slow to wake                     
+      REASON FOR THIS EXAMINATION:
+       assess for stenosis                                                             
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      DUPLEX CAROTID ULTRASOUND
+      
+      INDICATION:  Carotid bruit.  Slow to wake status post CABG.  Evaluate for
+      stenosis.
+      
+      FINDINGS:  There was a modest amount of atherosclerotic plaque at the origins
+      of the ICAs and ECAs bilaterally.
+      
+      On the right, peak systolic velocities measured 99, 65, and 82 cm/sec
+      respectively in the right ICA, CCA, and ECA.  The right ICA/ECA ratio measured
+      1.52.
+      
+      On the left, the peak systolic velocities measured 93, 70, and 88 cm/sec
+      respectively in the left ICA, CCA, and ECA.  Left ICA/CCA ratio was 1.32.
+      
+      The peak systolic velocity in the left vertebral artery was 81 cm/sec with
+      normal arterial waveforms.  However, the peak velocity in the right vertebral
+      artery was 17, and to and fro flow was noted with tardus parvus.  There is
+      also decreased triphasic flow in the right brachial artery.  These are
+      suggestive of a right subclavian steal.
+      
+      IMPRESSION:  Less than 40% stenosis in both carotids.
+      
+      Right subclavian steal.
+      
+      
+
+END REPORT
+BEGIN REPORT
+
+ ","(null)","(null)"
+ "41","2066","28908","(null)","(null)","2538-09-09 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**2538-9-9**] 8:36 AM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 15370**]
+      Reason: eval for carotid stenosis                                   
+      Admitting Diagnosis: CORONARY ARTERY DISEASE;MYOCARDIAL INFARCTION\CATH;STENT PLACEMENT
+      
+ 
+ 
+ UNDERLYING MEDICAL CONDITION:
+       64 year old woman with NSTEMI with 3VD being evalauted for CABG. Has bilateral 
+       carotid bruits
+      REASON FOR THIS EXAMINATION:
+       eval for carotid stenosis                                                       
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      CAROTID ULTRASOUND EXAMINATION
+      
+      INDICATION:  64-year-old man with coronary artery disease and bilateral
+      carotid bruit.
+      
+      FINDINGS:  Carotid ultrasound examination was performed bilaterally.
+      
+      RIGHT SIDE:  There is a moderate plaque in the distal common carotid artery
+      and proximal internal and external carotid arteries with corresponding peak
+      systolic velocities 93 cm/sec, 163 cm/sec, and 143 cm/sec respectively.
+      ICA/CCA ratio 1.75.  The flow in the vertebral artery is in antegrade
+      direction.
+      
+      LEFT SIDE:  There is moderate plaque in the distal common carotid artery and
+      proximal internal and external carotid arteries with corresponding peak
+      systolic velocities 60 cm/sec, 227 cm/sec, and 92 cm/sec respectively. ICA/CCA
+      ratio 3.8.  The flow in the vertebral artery is in antegrade direction.
+      
+      IMPRESSION:  60-69% stenosis in the proximal internal carotid arteries
+      bilaterally.  This is a baseline examination at the [**Hospital1 1262**].
+      
+      
+      
+      
+      
+      
+
+END REPORT
+BEGIN REPORT
+     
+ 
+ ","(null)","(null)"
+ "42","21569","10982","(null)","(null)","3114-02-17 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**3114-2-17**] 1:27 PM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 8392**]
+      Reason: eval for evidence of carotid stenosis                       
+      Admitting Diagnosis: HYPOXIA
+      
+ 
+  UNDERLYING MEDICAL CONDITION:
+       68 year old woman with CAD, AS, MR, CHF, renal failure, ITP, being evaluated 
+       for valve replacement. Please eval for evidence of carotid stenosis. 
+      REASON FOR THIS EXAMINATION:
+       eval for evidence of carotid stenosis                                           
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      CAROTID ULTRASOUND EXAMINATION
+      
+      INDICATION:  A 68-year-old woman with coronary artery disease, being evaluated
+      for valve replacement.
+      
+      FINDINGS:  Carotid ultrasound examination was performed bilaterally.
+      
+      RIGHT SIDE:  There is a mild plaque at the origin of the internal and external
+      carotid arteries with respective peak systolic velocities 72 cm/sec and 97
+      cm/sec.  The peak systolic velocity in the common carotid artery 54 cm/sec.
+      ICA/CCA ratio is 0.74.  The flow in the vertebral artery is in antegrade
+      direction.
+      
+      LEFT SIDE:  There is a mild plaque at the origin of the internal carotid
+      artery.  The internal carotid artery is somewhat tortuous in its course.  The
+      peak systolic velocity in the internal carotid artery 85 cm/sec, common
+      carotid artery 92 cm/sec and external carotid artery 86 cm/sec.  ICA/CCA ratio
+      is 0.92.  The flow in the vertebral artery is in antegrade direction.
+      
+      IMPRESSION:  Less than 40% stenosis of the proximal internal carotid arteries
+      bilaterally.  This is a baseline examination at the [**Hospital1 572**].
+      
+      
+      
+      
+      
+      
+
+END REPORT
+BEGIN REPORT
+","(null)","(null)"
+ "43","22191","28907","(null)","(null)","2808-12-15 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**2808-12-15**] 9:55 AM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 13710**]
+      Reason: PREOP CABG
+      Admitting Diagnosis: CORONARY ARTERY DISEASE\CORONARY ARTERY BYPASS GRAFTWITH AVR 
+      
+ 
+ UNDERLYING MEDICAL CONDITION:
+       82 year old man with                                                            
+      REASON FOR THIS EXAMINATION:
+       r/o carotid stenosis                                                            
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      CAROTID ULTRASOUND
+      
+      INDICATION:  An 82-year-old man with preoperative evaluation for CABG.
+      
+      FINDINGS:  Carotid ultrasound examination was performed bilaterally.
+      
+      RIGHT SIDE:  There is a minimal plaque at the origin of the internal carotid
+      artery and distal common carotid artery with a respective peak systolic
+      velocity 61 cm/sec and 64 cm/sec.  ICA/CCA ratio is 0.95.  The peak systolic
+      velocity in the external carotid artery is 93 cm/sec.  The flow in the
+      vertebral artery is in antegrade direction.
+      
+      LEFT SIDE:  There is a minimal plaque at the origin of the internal carotid
+      artery with peak systolic velocity 59 cm/sec.  The peak systolic velocity in
+      the common carotid artery is 55 cm/sec and external carotid artery 66 cm/sec.
+      ICA/CCA ratio is 1.1.  The flow in the vertebral artery is in antegrade
+      direction.
+      
+      IMPRESSION:  No evidence of hemodynamically significant stenosis in the
+      carotid arteries bilaterally.
+      
+      
+
+END REPORT
+BEGIN REPORT
+","(null)","(null)"
+ "44","25390","9909","31547","(null)","2881-08-05 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**2881-8-5**] 1:43 PM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 12029**]
+      Reason: ? CAROTID ARTERY STENOSIS
+      Admitting Diagnosis: STROKE/TIA
+     
+ 
+ 
+ UNDERLYING MEDICAL CONDITION:
+       81 year old woman with HTN, and r-MCA stroke                                    
+      REASON FOR THIS EXAMINATION:
+       ? caritid artery stenosis?                                                      
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      CAROTID ULTRASOUND
+      
+      INDICATION:  81-year-old woman with hypertension and right MCA stroke.
+      
+      FINDINGS:  Carotid arteries were examined bilaterally.
+      
+      RIGHT SIDE:  There is a tiny plaque at the proximal internal carotid artery.
+      The common carotid, and external carotid arteries are unremarkable.  The peak
+      systolic velocity in the common carotid artery is 77 cm/sec, internal carotid
+      artery is 62 cm/sec, and external carotid artery 102 cm/sec.  ICA/CCA ratio
+      0.80.  The flow in the vertebral artery is in antegrade direction.
+      
+      LEFT SIDE:  There are no significant atherosclerotic changes.  The peak
+      systolic velocity in the common carotid artery 86 cm/sec, internal carotid
+      artery 76 cm/sec, and external carotid artery 86 cm/sec.  ICA/CCA ratio is
+      0.81.  The flow in the vertebral artery is in antegrade direction.
+      
+      IMPRESSION:  No evidence of hemodynamically significant stenosis in the
+      carotid arteries bilaterally.  This is a baseline examination at the [**Hospital1 550**].
+      
+      
+      
+      
+      
+      
+      
+      
+
+END REPORT
+BEGIN REPORT
+","(null)","(null)"
+ "45","24990","(null)","(null)","(null)","3136-09-15 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**3136-9-15**] 9:30 AM
+      ART EXT (REST ONLY); CAROTID SERIES COMPLETE                    Clip # [**Clip Number (Radiology) 8173**]
+      Reason: RT PLANTAR ULCER, HX OF LT ICA STENT
+      
+ UNDERLYING MEDICAL CONDITION:
+       63 year old man with pedal ulcer                                                
+      REASON FOR THIS EXAMINATION:
+       pls evaluate PVD                                                                
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      ARTERIAL ULTRASOUND AND CAROTID ULTRASOUND
+      
+      INDICATION:  63-year-old man with peripheral vascular disease and pedal ulcer.
+      
+      FINDINGS:  Duplex ultrasound examination of the leg was performed.
+      
+      RIGHT LEG:  There is triphasic flow pattern on the femoral and popliteal
+      artery and monophasic flow pattern on the dorsalis pedis artery.  The
+      posterior tibial artery is not identified.  The ankle-brachial index at rest
+      is 0.88.  The segmental limb pressures are grossly unremarkable.
+      
+      LEFT LEG:  There is triphasic flow pattern on the femoral, popliteal and
+      dorsalis pedis arteries.  The posterior tibial artery is not identified.  The
+      ankle-brachial index at rest is 1.33.  The segmental limb pressures are
+      unremarkable.
+      
+      The patient was not exercised.
+      
+      Carotid ultrasound examination was performed.
+      
+      RIGHT SIDE:  There is moderate plaque in the distal common carotid and
+      proximal internal carotid artery with respective peak velocities 58 cm/sec and
+      219 cm/sec.  The peak systolic velocity in the external carotid artery is 77
+      cm/sec.  ICA/CCA ratio is 3.7.  The flow in the vertebral artery is in
+      antegrade direction.
+      
+      LEFT SIDE:  The patient is status post left ICA stent.  The peak systolic
+      velocity in the common carotid artery is 98 cm/sec and in the internal carotid
+      artery 88 cm/sec.  The peak systolic velocity in the ECA is 115 cm/sec.
+      ICA/CCA ratio is 0.89.  The flow in the vertebral artery is in antegrade
+      direction.
+      
+      IMPRESSION:
+      1.  Mild distal right tibial disease.
+      2.  Both posterior tibial arteries are not identified.
+      3.  60-69% stenosis of the right internal carotid artery.
+      4.  No significant stenosis in the left internal carotid artery, status post
+      stenting.  There has been no significant interval change since prior carotid
+      artery study from [**3136-5-27**].
+      
+      
+      
+      
+                                                                  (Over)
+
+END REPORT
+BEGIN REPORT
+     DATE: [**3136-9-15**] 9:30 AM
+      ART EXT (REST ONLY); CAROTID SERIES COMPLETE                    Clip # [**Clip Number (Radiology) 8173**]
+      Reason: RT PLANTAR ULCER, HX OF LT ICA STENT
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      (Cont)
+      
+ 
+ ","(null)","(null)"
+ "46","30682","(null)","(null)","(null)","2636-08-15 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**2636-8-15**] 10:08 AM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 2605**]
+      Reason: BRUITS
+  
+ 
+ 
+  UNDERLYING MEDICAL CONDITION:
+       80 year old woman with history of hypertrophic cardiomyopathy and mitral 
+       regurgitation
+      REASON FOR THIS EXAMINATION:
+       ? carotid bruits                                                                
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      DUPLEX CAROTID ULTRASOUND:
+      
+      INDICATION:  Carotid bruits.
+      
+      FINDINGS:  No remarkable atherosclerotic plaque was identified on either side.
+      
+      On the right, peak systolic velocities measured 75, 72, and 93 cm/sec
+      respectively in the right ICA, CCA, and ECA.  Right ICA/CCA ratio is 0.99.
+      
+      On the left, peak systolic velocities measured 88, 87, and 89 respectively in
+      the left ICA, CCA, and ECA.  Left ICA/CCA ratio measures 1.1.
+      
+      There was antegrade flow in both vertebral arteries.
+      
+      IMPRESSION:  No internal carotid artery stenoses on either side.
+                                                                            
+
+END REPORT
+BEGIN REPORT
+","(null)","(null)"
+ "47","29262","(null)","(null)","(null)","3098-09-22 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**3098-9-22**] 9:41 AM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 4224**]
+      Reason: AV INSUFFICIENCY, STENOSIS
+      
+ 
+  UNDERLYING MEDICAL CONDITION:
+       77 year old woman with aortic valve insufficiency                               
+      REASON FOR THIS EXAMINATION:
+       rule out carotid stenosis                                                       
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      CAROTID ULTRASOUND
+      
+      INDICATION:  Carotid bruit.
+      
+      FINDINGS:
+      
+      RIGHT SIDE:  There is a mild plaque at the carotid bifurcation.  The peak
+      systolic velocity in the common carotid artery 87 cm/sec, proximal ICA 42
+      cm/sec, mid ICA 70 cm/sec, distal ICA 86 cm/sec, and external carotid artery
+      53 cm/sec.  ICA/CCA ratio is 0.99.  The flow in the vertebral artery is in
+      antegrade direction.
+      
+      LEFT SIDE:  There is a mild plaque at the origin of the internal carotid
+      artery.  The peak systolic velocity in the common carotid artery is 75 cm/sec,
+      proximal ICA 55 cm/sec, mid ICA 64 cm/sec, distal ICA 49 cm/sec, and external
+      carotid artery 62 cm/sec.  ICA/CCA ratio 0.85.  The flow in the vertebral
+      artery is in antegrade direction.
+      
+      IMPRESSION:  Less than 40% stenosis of the internal carotid arteries
+      bilaterally.
+                                                                            
+
+END REPORT
+BEGIN REPORT
+","(null)","(null)"
+ "48","29254","31629","(null)","(null)","3431-10-27 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**3431-10-27**] 3:43 PM
+      CAROTID SERIES COMPLETE PORT                                    Clip # [**Clip Number (Radiology) 4157**]
+      Reason: preop CABG in AM, bruit.                                    
+      Admitting Diagnosis: CORONARY ARTERY DISEASE;CP
+ 
+  UNDERLYING MEDICAL CONDITION:
+       63 year old man with CAD                                                        
+      REASON FOR THIS EXAMINATION:
+       preop CABG in AM, bruit.                                                        
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      DUPLEX CAROTID ULTRASOUND, [**10-27**].
+      
+      INDICATION:  Coronary artery disease.  Carotid bruits.  Pre-op CABG.
+      
+      FINDINGS:  There was a moderate amount of atherosclerotic plaque seen
+      involving the carotids bilaterally.
+      
+      On the right, peak velocities measured 157/66, 52/18, and 110 cm/sec
+      respectively in the right mid ICA, CCA, and ECA.  The right ICA/CCA ratio
+      measures 3.01.
+      
+      On the left, peak velocities measured 218/21, 67/23, and 94 cm/sec
+      respectively in the left mid ICA, CCA, and ECA.  The left ICA/CCA ratio
+      measures 3.25.
+      
+      Neither vertebral artery was visualized.
+      
+      IMPRESSION:  60-69% ICA stenoses bilaterally.
+      
+      
+      
+
+END REPORT
+BEGIN REPORT
+","(null)","(null)"
+ "49","32234","(null)","(null)","(null)","2510-10-29 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**2510-10-29**] 10:11 AM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 442**]
+      Reason: carotid stenosis
+      ______________________________________________________________________________
+      UNDERLYING MEDICAL CONDITION:
+       .
+      REASON FOR THIS EXAMINATION:
+       carotid stenosis
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      CAROTID ULTRASOUND EXAMINATION
+      
+      INDICATION:  Carotid artery disease, followup.
+      
+      FINDINGS:  RIGHT SIDE:  There is a moderate plaque at the origin of the
+      internal carotid artery.  The peak systolic velocity in the common carotid
+      artery 70 cm/sec, proximal ICA 119 cm/sec, mid ICA 103 cm/sec, distal ICA 101
+      cm/sec.  ICA/CCA ratio 1.7.  The flow in the vertebral artery is in antegrade
+      direction.
+      
+      LEFT SIDE:  There is a moderate plaque at the origin in proximal internal
+      carotid artery.  The peak systolic velocity in the common carotid artery 75
+      cm/sec, proximal ICA 153 cm/sec, mid ICA 135 cm/sec, distal ICA 120 cm/sec and
+      external carotid artery 113 cm/sec.  ICA/CCA ratio 2.0.  The flow in the
+      vertebral artery is in antegrade direction.
+      
+      IMPRESSION:
+      1.  40-59% stenosis of the right internal carotid artery.
+      2.  60-69% stenosis of the left internal carotid artery.  There has been no
+      significant interval change since [**2510-4-22**].
+                                                                            
+
+END REPORT
+BEGIN REPORT
+","(null)","(null)"
+ "50","31264","30219","(null)","(null)","2877-09-27 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**2877-9-27**] 4:38 PM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 8204**]
+      Reason: evaluate for carotid stenoses, dx: bruit                    
+      Admitting Diagnosis: CORONARY ARTERY DISEASE\AORTIC VALVE REPLACEMENT 
+      ______________________________________________________________________________
+      UNDERLYING MEDICAL CONDITION:
+       62 year old man with pre-op avr, cabg                                           
+      REASON FOR THIS EXAMINATION:
+       evaluate for carotid stenoses, dx: bruit                                        
+      ______________________________________________________________________________
+      PROVISIONAL FINDINGS IMPRESSION (PFI): DJRc TUE [**2877-9-28**] 1:44 PM
+       Less than 40% stenosis of the internal carotid arteries bilaterally.
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      CAROTID ULTRASOUND
+      
+      INDICATION:  Carotid bruit.
+      
+      FINDINGS:
+      
+      RIGHT SIDE:  There are diffuse mild atherosclerotic changes.  The peak
+      systolic velocity in the common carotid artery 43 cm/sec, proximal ICA 62
+      cm/sec, mid ICA 48 cm/sec, distal ICA 63 cm/sec and external carotid artery
+      107 cm/sec.  ICA/CCA ratio 1.4.  The flow in the vertebral artery is in
+      antegrade direction.
+      
+      LEFT SIDE:  There are mild diffuse atherosclerotic changes with peak systolic
+      velocity in the common carotid artery 64 cm/sec, proximal ICA 45 cm/sec, mid
+      ICA 56 cm/sec, distal ICA 56 cm/sec and external carotid artery 113 cm/sec.
+      ICA/CCA ratio 0.87.  The flow in the vertebral artery is in antegrade
+      direction.
+      
+      IMPRESSION:  Mild diffuse atherosclerotic changes with less than 40% stenosis
+      of the
+      
+      
+      
+      
+      
+
+END REPORT
+BEGIN REPORT
+B_O_r
+ ","(null)","(null)"
+ "51","5226","24785","(null)","(null)","2822-12-01 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**2822-12-1**] 2:28 PM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 9336**]
+      Reason: r/o stenosis                                                
+      Admitting Diagnosis: MITRAL REGURGITATION;SHORTNESS OF BREATH\CARDIAC CATH
+      ______________________________________________________________________________
+      UNDERLYING MEDICAL CONDITION:
+       80 year old man with CAD, preop CABG on Fri [**12-2**]                               
+      REASON FOR THIS EXAMINATION:
+       r/o stenosis                                                                    
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      CAROTID ULTRASOUND
+      
+      INDICATION:  80-year-old man with coronary artery disease, preoperative
+      evaluation for CABG.
+      
+      FINDINGS:  Carotid ultrasound examination was performed bilaterally.
+      
+      RIGHT SIDE:  There is a mild plaque at the origin of the internal carotid
+      artery with peak systolic velocity 59 cm/sec.  The peak systolic velocity in
+      the common carotid artery 83 cm/sec, and external carotid artery 87 cm/sec.
+      ICA/CCA ratio is 0.71.  The flow in the vertebral artery is in antegrade
+      direction.
+      
+      LEFT SIDE:  There is a mild plaque at the origin of the internal carotid
+      artery with peak systolic velocity 61 cm/sec, the peak systolic velocity in
+      the common carotid artery 72 cm/sec, and external carotid artery 95 cm/sec.
+      ICA/CCA ratio is 0.84.  The flow in the vertebral artery is in antegrade
+      direction.
+      
+      IMPRESSION:  Less than 40% stenosis of the internal carotid arteries
+      bilaterally.
+      
+      
+      
+      
+      
+      
+
+END REPORT
+BEGIN REPORT
+","(null)","(null)"
+ "52","8396","29449","(null)","(null)","2838-05-31 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**2838-5-31**] 9:14 AM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 7367**]
+      Reason: r/o critical carotid stenosis                               
+      Admitting Diagnosis: CARDIOMYOPATHY;SYNCOPE\IMPLANTABLE CARDIOVERTER DEFIBRILLATOR PLACEMENT
+      ______________________________________________________________________________
+      UNDERLYING MEDICAL CONDITION:
+       77 year old man with ESRD, carotid stenosis, s/p syncopal event                 
+      REASON FOR THIS EXAMINATION:
+       r/o critical carotid stenosis                                                   
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      DUPLEX CAROTID ULTRASOUND
+      
+      INDICATION:  ESRD.  Carotid stenosis.  Syncopal event.
+      
+      FINDINGS:  The left internal carotid artery is occluded proximally by a large
+      calcified plaque.  The left common carotid and external carotid arteries are
+      patent.  The left vertebral artery was not visualized.
+      
+      On the right, moderate atherosclerotic plaque is seen.  Peak velocities
+      measured 124/52, 78, 96, and 67 cm/sec respectively in the right ICA, CCA,
+      ECA, and vertebral arteries.  The right ICA/CCA ratio measures 1.5.
+      
+      IMPRESSION:  Left internal carotid artery occlusion.
+      
+      40 to 59% stenosis of the right internal carotid.
+                                                                            
+
+END REPORT
+BEGIN REPORT
+","(null)","(null)"
+ "53","4670","(null)","(null)","(null)","2802-08-29 00:00:00 -0500","(null)","(null)","(null)","(null)","RADIOLOGY_REPORT","(null)","
+ 
+ 
+      DATE: [**2802-8-29**] 11:26 AM
+      CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 4095**]
+      Reason: pt c/p sizzeness when he moves his head. [**Last Name (un) **] Bilateral [**Location (un) **]
+      ______________________________________________________________________________
+      UNDERLYING MEDICAL CONDITION:
+       71 year old man s/p kidney and liver transplant 3 months                        
+      REASON FOR THIS EXAMINATION:
+       pt c/p sizzeness when he moves his head. [**Last Name (un) **] Bilateral carotid u/s to assess 
+       artery stenosis.
+      ______________________________________________________________________________
+                                      FINAL REPORT
+      CAROTID ULTRASOUND
+      
+      INDICATION:  71-year-old man with dizziness with moving head.
+      
+      FINDINGS:  Carotid ultrasound examination was performed bilaterally.
+      
+      RIGHT SIDE:  There are no significant atherosclerotic changes with peak
+      systolic velocity in the common carotid artery 52 cm/sec, internal carotid
+      artery 52 cm/sec, external carotid artery 44 cm/sec.  ICA/CCA ratio 1.0.  The
+      flow in the vertebral artery is in antegrade direction.
+      
+      LEFT SIDE:  There is no evidence of significant atherosclerotic plaque with
+      peak systolic velocity in the common carotid artery 42 cm/sec, internal
+      carotid artery 38 cm/sec, and external carotid artery 46 cm/sec.  ICA/CCA
+      ratio 0.90.  The flow in the vertebral artery is in antegrade direction.
+      
+      IMPRESSION:  No evidence of hemodynamically significant stenosis in the
+      carotid arteries bilaterally.
+                                                                            
+ 
+ ","(null)","(null)"
+
+END REPORT
