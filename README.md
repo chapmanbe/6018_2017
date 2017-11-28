@@ -95,6 +95,12 @@ The analytical component of this course includes review of foundational mathemat
         1. Integer, rational, real, and complex numbers in Python
     1.  **Application: representing biomedical data numerically**
 
+1. **Code Blocks in Python**
+    1. **Principles**
+        1. If/Else If/Else Blocks
+        1. Repeition with For and While Loops
+    1. **Applications**
+    
 1. **Collections**
     1.  **Principles**
         1. Set theory
@@ -102,23 +108,27 @@ The analytical component of this course includes review of foundational mathemat
     1.  **Application:**
         1. Using Python collections to represent laboratory test data
         1. Using sets to analyze biomedical texts
+        1. Counting kmers
         1. Dictionaries and ICD-9 codes (MIMIC2)
-
+        
 1.  **Functions in Mathematics and Computing**
     1.  **Principles**
-        1.  Mathematical description of functions
+        1. Mathematical description of functions
         1. Mutable and immutable function arguments
         1. Functions as arguments to functions
         1. Functions for code-reuse
+        1. Recursion
+        1. Exceptions
     1.  **Application**
-        1.  Writing functions to find prime numbers
+        1. Writing functions to find prime numbers
+        1. Computing greatest common denominators
+        1. Identifying kmers
 
 1. **Advanced Code Blocks in Python**
     1.  **Principles**
-        1.  Exceptions
-        1. Iteration
         1. Modules
         1. Packages
+        
 1. **Calculus and numeric approximations of derivatives**
     1.  **Principles**
         1. Meaning of derivatives
@@ -142,6 +152,7 @@ The analytical component of this course includes review of foundational mathemat
     1.  **Applications**
         1. Air quality and temporal data
         1. Car accidents and spatial data
+        1. Reading lab data
         
 1. **Working with Data files**
     1.  **Principles**
@@ -150,9 +161,7 @@ The analytical component of this course includes review of foundational mathemat
     1.  **Applications**
         1. Parsing radiology report files
         1. Parsing common bioinformatics file formats FASTA, FASTQ
-        1. Parsing lab data
-
-
+        
 1. **Object oriented programming and probability**
     1.  **Principles**
         1. Encapsulation
@@ -164,7 +173,6 @@ The analytical component of this course includes review of foundational mathemat
     1.  **Application**
         1. Modeling RGB$\alpha$
         1. Simulating populations of patients
-
 
 1. **Basic Text Processing with Python**
     1.  **Principles**
