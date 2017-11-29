@@ -18,3 +18,4 @@
   * Using Web APIs
 * [The Specials, "Blank Expression"](https://www.youtube.com/watch?v=vsD59uKVTxc)
   * Regular Expressions
+* [Using Git](https://m.xkcd.com/1597/)
