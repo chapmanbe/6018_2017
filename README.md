@@ -95,6 +95,12 @@ The analytical component of this course includes review of foundational mathemat
         1. Integer, rational, real, and complex numbers in Python
     1.  **Application: representing biomedical data numerically**
 
+1. **Code Blocks in Python**
+    1. **Principles**
+        1. If/Else If/Else Blocks
+        1. Repeition with For and While Loops
+    1. **Applications**
+    
 1. **Collections**
     1.  **Principles**
         1. Set theory
@@ -102,27 +108,34 @@ The analytical component of this course includes review of foundational mathemat
     1.  **Application:**
         1. Using Python collections to represent laboratory test data
         1. Using sets to analyze biomedical texts
+        1. Counting kmers
         1. Dictionaries and ICD-9 codes (MIMIC2)
-
+        
 1.  **Functions in Mathematics and Computing**
     1.  **Principles**
-        1.  Mathematical description of functions
+        1. Mathematical description of functions
         1. Mutable and immutable function arguments
         1. Functions as arguments to functions
         1. Functions for code-reuse
+        1. Recursion
+        1. Exceptions
     1.  **Application**
-        1.  Writing functions to find prime numbers
+        1. Writing functions to find prime numbers
+        1. Computing greatest common denominators
+        1. Identifying kmers
 
 1. **Advanced Code Blocks in Python**
     1.  **Principles**
-        1.  Exceptions
-        1. Iteration
         1. Modules
         1. Packages
+        
 1. **Calculus and numeric approximations of derivatives**
     1.  **Principles**
         1. Meaning of derivatives
         1. Symbolic differentiation with Sympy
+        1. Working with Numpy arrays
+            1. Slicing
+            1. Vectorized operations
         1. Numerical derivatives of Numpy arrays
         1. Approximation
         1. Optimization
@@ -130,40 +143,36 @@ The analytical component of this course includes review of foundational mathemat
         1. Drug delivery timing
         1. QRS identification in ECG signals
 
-1. **Visualization of Biomedical Data**
-    1.  **Principles**
-        1. Creating graphs with [Matplotlib](https://matplotlib.org/)
-        1. Creating graphs with [Holoviews](http://holoviews.org/)
-        1. Creating graphs with [Altair](https://altair-viz.github.io/index.html)
-
-    1.  **Applications:**
-        1. Visualizing heart sounds
-        1. Visualizing CT images of the liver
-
-1. **Working with Data files**
-    1.  **Principles**
-        1.  Reading and writing data from disk with Python
-    1.  **Applications**
-        1. Parsing radiology report files
-        1. Parsing common bioinformatics file formats FASTA, FASTQ
-
 1. **Pandas for Data Wrangling and visualization**
     1.  **Principles**
         1. Reading tabular data
         1. Numeric representation standards (locale library)
         1. Working with missing data
+        1. Representing dates and times
     1.  **Applications**
         1. Air quality and temporal data
         1. Car accidents and spatial data
+        1. Reading lab data
+        
+1. **Working with Data files**
+    1.  **Principles**
+        1. Reading and writing data from disk with Python
+        1. Data serialization with Pickle
+    1.  **Applications**
+        1. Parsing radiology report files
+        1. Parsing common bioinformatics file formats FASTA, FASTQ
+        
+1. **Object oriented programming and probability**
+    1.  **Principles**
+        1. Encapsulation
+        1. Polymorphism
+        1. Inheritance
+        1. Basic principles of counting
+        1. Random values
 
-1. **Data Serialization**
-    1. **Principles**
-        1. Persisting Data in a Human and/or Machine Readable Manner
-    1. **Applications**
-        1. Pickle
-        1. Dill
-        1. JSON
-        1. XML
+    1.  **Application**
+        1. Modeling RGB$\alpha$
+        1. Simulating populations of patients
 
 1. **Basic Text Processing with Python**
     1.  **Principles**
@@ -171,7 +180,8 @@ The analytical component of this course includes review of foundational mathemat
         1. Regular expressions
     1.  **Application**
         1. Text de-identification
-
+        1. Extracting gene and protein data
+        
 1. **Linear Algebra and Text Processing**
     1.  **Principles**
         1. Vectors
@@ -181,27 +191,8 @@ The analytical component of this course includes review of foundational mathemat
 
     1.  **Application**
         1. Cosine similarity of text documents
-
-1. **Logic Programming**
-    1.  **Principles**
-        1. Propositional Logic
-        1. First-Order Logic
-
-    1.  **Application**
-        1. Logic and Natural Language Understanding with NLTK
-
-1. **Object oriented programming and probability**
-    1.  **Principles**
-        1. Encapsulation
-        1. Polymorphism
-        1. Inheritance
-        1. Basic principles of counting
-        1. Discrete and continuous random variables
-        1. Common probability distributions
-
-    1.  **Application**
-        1. Simulating populations of patients
-
+        1. Rerpesenting sparse vectors with dictionaries
+        
 1. **Networks, ontologies and graph theory**
     1.  **Principles**
         1. Edges and nodes
@@ -210,6 +201,18 @@ The analytical component of this course includes review of foundational mathemat
         1. Shortest paths
     1.  **Applications**
         1. Reasoning with Ontologies
+        1. Analyzing Twitter networks
+        1. Analyzing collaboration networks with Pubmed data
+        
+        
+1. **Visualization of Biomedical Data**
+    1.  **Principles**
+        1. Creating graphs with [Matplotlib](https://matplotlib.org/)
+        1. Creating graphs with [Holoviews](http://holoviews.org/)
+
+    1.  **Applications:**
+        1. Visualizing heart sounds
+        1. Visualizaing MIMICII Data
 
 1. **Networks and Probability**
     1.  **Principles**
