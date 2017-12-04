@@ -5,14 +5,15 @@
 ## Instructors                                   
 * Brian E. Chapman, Ph.D.: <brian.chapman@utah.edu>
 * Nick Consiglio (TA): <nick.consiglio@utah.edu>
-
+* Richard Olpin (TA):
+<rich.olpin@utah.edu>
 ## Prerequisite
 
-A basic programming course, such as [codecademy’s Python Course](https://www.codecademy.com/learn/learn-python)
+Prior to starting this course, the student must have completed a basic programming class. Online courses, such as [codecademy’s Python Course](https://www.codecademy.com/learn/learn-python) or [Coursera's Programming for Everybody](https://www.coursera.org/learn/python), are fine with proof of completion.
 
 ## Course Description
 
-This course will provide students in the biological and medical domains the foundational programming skills to create computer programs to manage and analyze data drawn from clinical, biological, and public health domains. Working with the Python programming language, students will learn how to write procedural and object oriented programs. Mathematical principles relevant to biomedical data science will be reviewed through programming examples and problems. Students will also develop competency in using software version control with git as well as how to work within Linux environments.
+This course will provide students in the biological and medical domains the foundational programming skills to create computer programs to manage and analyze data drawn from clinical, biological, and public health domains. Working with the Python programming language, students will learn how to write procedural and object oriented programs. Mathematical principles relevant to biomedical data science will be reviewed through programming examples and problems. Students will also develop competency in using software version control with git as well as how to work within Linux computing environments.
 
 ## Text Books
 
@@ -34,21 +35,21 @@ As part of this class we will be reviewing some foundational mathematics as they
 
 Upon completing this course students will be able to:
 
-1. Use basic mathematical principles (e.g. set theory, first order logic, calculus, linear algebra, probability, and graph theory) to motivate and inform computational problems in biology and healthcare.
-
-1. Follow software engineering principles such as version control, documentation, and testing while developing biomedical software.
 1. Develop biomedical software applications in the Python programming language.
 1. Develop pipelines for manipulating, analyzing, and visualizing biomedical data.
+1. Follow software engineering principles such as version control, documentation, and testing while developing biomedical software.
+1. Use basic mathematical principles (e.g. set theory, first order logic, calculus, linear algebra, probability, and graph theory) to motivate and inform computational problems in biology and healthcare.
 
 ## Evaluation Methods
 
-1. Quizzes: 15% of grade
-1. Class Participation: 15% of grade
+1. Quizzes: 10% of grade.
+  * Quizzes will be based on class-preparation materials to ensure that the students have reviewed the materials prior to the start of class.
+1. Class Participation: 10% of grade
     1. I will not keep attendance, but I do expect reasonable attendance and participation with in-class activities, peer review of assignments, etc.
-1. Homework Assignments: 40%
+1. Homework Assignments: 35%
+  * There will be homework assignments for each module.  
 1. Term Project: 30%
-
-**No tests will be given**
+1. Final Exam: 15%
 
 ##  Teaching and Learning Methods                 
 
@@ -80,10 +81,14 @@ The analytical component of this course includes review of foundational mathemat
         1. Documentation
     1.  **Application:**
         1.  Working within the course framework
+1. **Problem Solving Heuristics**
+  1. Simplification/Approximation
+  1. Iteration
 
-1.  **Review of sublanguages (mathematical, computational, medical) and
+1.  **Review of Natural, Formal, and Sublanguages  (computational, mathematical, and medical) and
     their symbols/notation**
     1.  **Principles**
+        1. Programming languages as formal languages
         1.  Common mathematical, computational, and medical symbols (and
             their meaning)
 
@@ -91,26 +96,34 @@ The analytical component of this course includes review of foundational mathemat
 
 1. **Mathematical and Computational Concepts of Numbers**
     1.  **Principles**
-        1.  Integer, rational, real, and complex numbers in mathematics
-        1. Integer, rational, real, and complex numbers in Python
-    1.  **Application: representing biomedical data numerically**
+        1.  Integer, rational, real, and complex numbers in mathematics and Python
+          1. Information loss
+        1. Positional representation of numbers
+        1. Random numbers
+        1. Arrays of numbers
+    1.  **Application:
+      1. representing biomedical data numerically**
+      1. Calculating with numbers: body mass index, computing forces
+
+  1. **Collections**
+      1.  **Principles**
+          1. Mutable and immutable
+          1. Set theory---uniquness
+          1. Strings, lists, tuples, dictionaries, and sets in Python
+      1.  **Application:**
+          1. Using Python collections to represent laboratory test data
+          1. Using sets to analyze biomedical texts
+          1. Counting kmers
+          1. Dictionaries and ICD-9 codes (MIMIC2)
 
 1. **Code Blocks in Python**
     1. **Principles**
+        1. Functions
         1. If/Else If/Else Blocks
-        1. Repeition with For and While Loops
+        1. Repetition with For and While Loops
     1. **Applications**
-    
-1. **Collections**
-    1.  **Principles**
-        1. Set theory
-        1. Strings, lists, tuples, dictionaries, and sets in Python
-    1.  **Application:**
-        1. Using Python collections to represent laboratory test data
-        1. Using sets to analyze biomedical texts
-        1. Counting kmers
-        1. Dictionaries and ICD-9 codes (MIMIC2)
-        
+
+
 1.  **Functions in Mathematics and Computing**
     1.  **Principles**
         1. Mathematical description of functions
@@ -128,7 +141,7 @@ The analytical component of this course includes review of foundational mathemat
     1.  **Principles**
         1. Modules
         1. Packages
-        
+
 1. **Calculus and numeric approximations of derivatives**
     1.  **Principles**
         1. Meaning of derivatives
@@ -153,7 +166,7 @@ The analytical component of this course includes review of foundational mathemat
         1. Air quality and temporal data
         1. Car accidents and spatial data
         1. Reading lab data
-        
+
 1. **Working with Data files**
     1.  **Principles**
         1. Reading and writing data from disk with Python
@@ -161,7 +174,7 @@ The analytical component of this course includes review of foundational mathemat
     1.  **Applications**
         1. Parsing radiology report files
         1. Parsing common bioinformatics file formats FASTA, FASTQ
-        
+
 1. **Object oriented programming and probability**
     1.  **Principles**
         1. Encapsulation
@@ -181,7 +194,7 @@ The analytical component of this course includes review of foundational mathemat
     1.  **Application**
         1. Text de-identification
         1. Extracting gene and protein data
-        
+
 1. **Linear Algebra and Text Processing**
     1.  **Principles**
         1. Vectors
@@ -192,7 +205,7 @@ The analytical component of this course includes review of foundational mathemat
     1.  **Application**
         1. Cosine similarity of text documents
         1. Rerpesenting sparse vectors with dictionaries
-        
+
 1. **Networks, ontologies and graph theory**
     1.  **Principles**
         1. Edges and nodes
@@ -203,8 +216,8 @@ The analytical component of this course includes review of foundational mathemat
         1. Reasoning with Ontologies
         1. Analyzing Twitter networks
         1. Analyzing collaboration networks with Pubmed data
-        
-        
+
+
 1. **Visualization of Biomedical Data**
     1.  **Principles**
         1. Creating graphs with [Matplotlib](https://matplotlib.org/)
