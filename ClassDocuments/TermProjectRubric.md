@@ -32,4 +32,9 @@ Based on a Score of 100, here is how each portion of the project will be graded.
 
 ### A positive pylint score on your modules:
 * **10 Points**
-* Any score above 5 will be counted as extra credit
+
+## Extra Credit
+
+* The amount your pylint score **exceeds 5** will be counted as extra credit
+* Making a video of your project **5 points**
+* Making your video public **5 points**
